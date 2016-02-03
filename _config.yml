@@ -41,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Eric Libby
+  avatar: eric_profile.jpg
+  bio: "Research fellow interested in the evolution of biological complexity"
   email:
   disqus-shortname:
   twitter: #username
