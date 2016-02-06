@@ -1,13 +1,19 @@
 # Site navigation links
 
-- title: People
-  url: /people/
+- title: Students
+  url: /p_students/
 
 - title: Research
-  url: /research/
+  url: /p_research/
 
-- title: CV
-  url: /CV/
+- title: Collaborators
+  url: /p_collaborators/
 
-- title: Other interests
-  url: /other-interests/
+- title: Publications
+  url: /p_publications/
+
+- title: Teaching
+  url: /p_teaching/
+
+- title: Outreach
+  url: /p_outreach/
