@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: People
   url: /people/
 
 - title: Research
   url: /research/
+
+- title: CV
+  url: /CV/
 
 - title: Other interests
   url: /other-interests/
