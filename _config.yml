@@ -43,6 +43,8 @@ titlecase: true
 owner:
   name: Eric Libby
   avatar: eric_profile.jpg
+  avatar2: eric_profile2.jpg
+  avatar3: eric_profile3.jpg
   bio: "Research fellow at the Sante Fe Institute studying the evolution of biological complexity"
   email: elibby@santafe.edu
   disqus-shortname:
