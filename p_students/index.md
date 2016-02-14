@@ -43,7 +43,7 @@ I am captivated by the diverse spectrum of life and want to find general princip
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Former PhDs</span>      
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p> <b>Yuriy Pichugin</b> Yuriy was a PhD student at Massey University in New Zealand. He just successfully defended his thesis on multicellularity and the evolution of Darwinian individuals. Congratulations to him!  <BR> <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/yuriy.jpg" width="100"></p> <b>Yuriy Pichugin</b> Yuriy was a PhD student at Massey University in New Zealand. He just successfully defended his thesis on multicellularity and the evolution of Darwinian individuals. Congratulations to him!  <BR> <BR> <BR> <BR> <BR>
 </div>      
 
 <BR CLEAR="...">
@@ -55,7 +55,7 @@ I am captivated by the diverse spectrum of life and want to find general princip
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Former REUs</span>      
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/emma.jpg" width="100"></p> <b>Emma Wolinsky</b> Emma came to SFI from UC Berkeley during the summer of 2014. She worked on models of the evolution of primitive developmental programs in <I> Pseudomonas fluorescens </I>. We published our results in the journal <I> Evolutionary Ecology </I>. <BR> <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/emma.jpg" width="100"></p> <b>Emma Wolinsky</b> Emma came to SFI from UC Berkeley during the summer of 2014. She worked on models of the evolution of primitive developmental programs in <I> Pseudomonas fluorescens </I>. We published our results in the journal <I> Evolutionary Ecology </I>. <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR>
 </div>    
 
 <div>
