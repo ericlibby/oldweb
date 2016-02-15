@@ -26,12 +26,12 @@ image:
 
 ### Schools
 	SFI Complex Systems Winter School (Mohali, India) 2015
- 	Microbial ecology lecture series
+	Microbial ecology lecture series
 
 	SFI Complex Systems Summer School (Santa Fe, USA) 2014
 	Lecture on the evolution of biological complexity
 
-	CIMAT Mathematical Modeling of Biological Systems: From Molecules to Populations (Guanajuato, Mexico) 2012
+	CIMAT Mathematical Modeling of Biological Systems (Guanajuato, Mexico) 2012
 	Mathematics in evolution lecture series
 
 
