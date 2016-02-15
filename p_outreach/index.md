@@ -10,13 +10,13 @@ image:
 
 
 ### Talks and Seminars
-The Evolutionary Ecology of Complex Investment Strategies (2015)
+* The Evolutionary Ecology of Complex Investment Strategies (2015)
 "Phenotype switching, life cycles, and oddities of optional paths"
 
-Information Theory, Ecosystems, and Schrodinger's Paradox II  (2015)
+* Information Theory, Ecosystems, and Schrodinger's Paradox II  (2015)
 "Exploring Organismality with a Lichen"
 
-Conference on Complex Systems  (2015)
+* Conference on Complex Systems  (2015)
 "Aggregative group formation in the transition to multicellularity"
 
 Gordon Conference on Molecular Mechanisms in Evolution  (2015)
