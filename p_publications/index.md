@@ -37,7 +37,7 @@ Publications
 -->
 
 *In prep*
-:	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.     
+:	* 
 
 2015
 :	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>   
@@ -47,50 +47,45 @@ Publications
 	* Gallie J., <span style="color:#377EB8;"> Libby E.</span>, Jendresen CB., Bertels F., Ferguson G.C., Beaumont H.J.E., Kilstrup M.,  Rainey P.B. (2015) Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens. <I> PLoS Biol </I> 13(3): e1002109. 
 
 
-2015
-:	* Crowley B, Melin A.D., <span style="color:#377EB8;">Yeakel J.D.</span>, Dominy N.J. [Oxygen isotope values reflect the ecology and physiology of Neotropical mammals.](http://journal.frontiersin.org/article/10.3389/fevo.2015.00127/abstract) *Frontiers in Ecology and Evolution*, 3, 1-8.     
-
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="doi:10.1016/j.biocon.2015.04.032"></div> <Galetti M., Guevara R., Neves C. L., Rodarte R. R., Bovendorp, R. S. Moreira M., Hopkins III, J. B., <span style="color:#377EB8;">Yeakel, J. D.</span> Defaunation affects the populations and diets of rodents in Neotropical rainforests. *Biological Conservation*, 190, 2-7.     
-
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dunne, J. A. [Modern lessons from ancient food webs](http://jdyeakel.github.io/pdfs/2015-05Yeakel.pdf). *American Scientist*, 103, 188-195.   
-
-	* Moore J. W., Beakes M., Nesbitt H. K., <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson D., Thompson L., Phillis C., Braun D., Favaro C., Scott D., Carr-Harris C., Atlas W. [Emergent stability in a large free-flowing watershed](http://www.esajournals.org/doi/abs/10.1890/14-0326.1). *Ecology*, 96(2), 340-347. doi:10.1890/14-0326.1    
-
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Recovering ecological pattern and process in Ancient Egypt](http://www.pnas.org/content/early/2015/01/07/1422646112.extract) *Proceedings of the National Academy of Sciences*, pg 201422546. doi:10.1073/pnas.1422646112.    
-
-
 2014
-:	*  <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1408471111"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Pires, M. M., Rudolf, L., Dominy, N. J., Koch, P. L., Guimarães, P. R., Jr, & Gross, T. [Collapse of an ecological network in Ancient Egypt](/publications/Proceedings of the National Academy of Sciences 2014 Yeakel.pdf). *Proceedings of the National Academy of Sciences*, 111(40), 14472–14477. doi:10.1073/pnas.1408471111 [**Blog Post**](/posts/collapse-of-an-ancient-egyptian-food-web-in-pnas/) 
+:	*  <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. (2014) Ratcheting the evolution of multicellularity. <I> Science</I>, 346(6208):426-7.
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/1365-2656.12212"></div> Moore, J. W., <span style="color:#377EB8;">Yeakel, J. D.</span>, Peard, D., Lough, J., & Beere, M. [Life-history diversity and its importance to population stability and persistence of a migratory fish: steelhead in two large North American watersheds](/publications/J. Anim. Ecol. 2014 Moore.pdf). *Journal of Animal Ecology* doi:10.1111/1365-2656.12212 [**Blog Post**](/posts/exploring-the-life-history-diversity-of-steelhead-salmon/)  
+	* Ratcliff W.C., Hawthorne P.,  <span style="color:#377EB8;"> Libby E.</span> (2014) Courting disaster: how diversification rate affects fitness under risk. <I> Evolution</I>, 69(1):126-35. 
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/ele.12228"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Moore, J. W., Guimarães, P. R., Jr, & de Aguiar, M. A. M. (2014). [Synchronisation and stability in river metapopulation networks](/publications/Ecol. Lett. 2014 Yeakel.pdf). *Ecology Letters* 17(3), 273–283. doi:10.1111/ele.12228 [**Blog Post**](/posts/synchronisation-and-stability-in-river-metapopulation-networks-in-ecology-letters/)  
+	* <span style="color:#377EB8;"> Libby E.</span>, Kerr B., Ratcliff W.C.,  Travisano M. (2014) Geometry shapes evolution of early multicellularity. <I> PLoS Comp Biol</I>,10(9):e1003803. 
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, & Mangel, M. [A generalized perturbation approach for exploring stock recruitment relationships](/publications/Theor. Ecol. 2014 Yeakel.pdf). *Theoretical Ecology* 1–13. doi:10.1007/s12080-014-0230-z [**Blog Post**](/posts/a-perturbation-approach-to-explore-stock-recruitment-relationships/)  
+	* <span style="color:#377EB8;"> Libby E.</span>  (2014) "Self-Organization and Emergence" chapter in <I> Discoveries in Modern Science: Exploration, Invention, Technology</I>. editors: James Trefil, Patricia Daniels, Donna McPhie,  Craig Schiffries.
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Dominy, N. J., Koch, P. L., & Mangel, M. [Functional morphology, stable isotopes, and human evolution: a model of consilience](/publications/Evolution 2014 Yeakel.pdf). *Evolution* 68, 190–203. doi:10.1111/evo.12240  [**Blog Post**](/posts/exploring-the-constraints-of-hominin-foraging-behaviors/)  
-
+	* Machovsky-Capuska G.E., Hauber M., <span style="color:#377EB8;"> Libby E.</span>, Amiot C.,  Raubenheimer D. (2014) The contribution of private and public information in foraging by Australasian gannets. <I> Animal Cognition</I>, 17(4), 849-858.
+	
 2013
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rspb.2013.0239"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Bocherens, H., & Koch, P. L. [The impact of climate change on the structure of Pleistocene food webs across the mammoth steppe](/publications/Proc. Roy. Soc. B 2013 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 280(1762), 20130239–20130239. doi:10.1016/j.cub.2007.09.059 [**Blog Post**](/posts/dietary-flexibility-food-webs-and-the-last-glacial-maximum/)  
+:	* <span style="color:#377EB8;"> Libby E.</span>,  Rainey P.B. (2013) Eco-evolutionary feedback and the tuning of proto-developmental life cycles. <I> PLoS One</I>, 8(12): e82274.
 
-2012
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Guimarães, P. R., Jr, Novak, M., Fox-Dobbs, K., & Koch, P. L. [Probabilistic patterns of interaction: the effects of link-strength variability on food web structure](/publications/J. R. Soc. Interface 2012 Yeakel.pdf). *Journal of the Royal Society Interface* 9(77), 3219–3228. doi:10.1073/pnas.192407699  
+	* <span style="color:#377EB8;"> Libby E.</span>,  Rainey P. B. (2013). A conceptual framework for the evolutionary origins of multicellularity. <I> Physical Biology</I>, 10: 035001.
 
-	* Moritz, G. L., Fourie, N., <span style="color:#377EB8;">Yeakel, J. D.</span>, Phillips-Conroy, J. E., Jolly, C. J., Koch, P. L., & Dominy, N. J. [Baboons, Water, and the Ecology of Oxygen Stable Isotopes in an Arid Hybrid Zone](/publications/Physiological and Biochemical Zoology 2012 Moritz.pdf). *Physiological and Biochemical Zoology* 85(5), 421–430. doi:10.1086/667533  
+	* <span style="color:#377EB8;"> Libby E.</span> (2013) "A Microcosm of Evolution" chapter in <I> Notas de Modelacion y Metodos Numericos. Mathematical Modeling of Biological Systems: From Molecules to Populations</I>. editors: Miguel Angel Moreles Vazquez  Salvador Botello Rionda.
 
-	* Newsome, S. D., <span style="color:#377EB8;">Yeakel, J. D.</span>, Wheatley, P. V., & Tinker, M. T. [Tools for quantifying isotopic niche space and dietary variation at the individual and population level](/publications/J. Mammal. 2012 Newsome.pdf). *Journal of Mammalogy* 93(2), 329–341.  
+	* Machovsky-Capuska G.E., Hauber M.E., Dassis M., <span style="color:#377EB8;"> Libby E.</span>, Wikelski M.C., Schuckard R., Melville D.S., Cook W., Houston M., Raubenheimer D. (2013) Foraging behaviour and habitat use of chick-rearing Australasian Gannets in New Zealand.  <I> Journal of Ornithology</I>. doi:10.1007/s10336-013-1018-4.
 
-2011
-:	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Novak, M., Guimarães, P. R., Jr, Dominy, N. J., Koch, P. L., Ward, E. J., et al. [Merging resource availability with isotope mixing models: the role of neutral interaction assumptions](/publications/PLoS ONE 2011 Yeakel.pdf). *PLoS ONE* 6(7), e22015. doi:10.1371/journal.pone.0022015.t002   
+2012 and earlier
+:	* <span style="color:#377EB8;"> Libby E.</span>,  Rainey P. B. (2011). Exclusion rules, bottlenecks and the evolution of stochastic phenotype switching. <I> Proceedings of the Royal Society B: Biological sciences</I>. doi:10.1098/rspb.2011.0146.
 
-	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s12080-011-0112-6"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Stiefs, D., Novak, M., & Gross, T. [Generalized modeling of ecological population dynamics](/publications/Theor. Ecol. 2011 Yeakel.pdf). *Theoretical Ecology* 4(2), 179–194. doi:10.1007/s12080-011-0112-6   
+	* Rainey P. B., Beaumont H. J. E., Ferguson G. C., Gallie J., Kost C., <span style="color:#377EB8;"> Libby E.</span>,  Zhang X.-X. (2011). The evolutionary emergence of stochastic phenotype switching in bacteria. <I> Microbial Cell Factories</I>, 10 Suppl 1, S14.
 
-pre-2011
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.0905309106"></div> <span style="color:#377EB8;">Yeakel, J. D.</span>, Patterson, B. D., Fox-Dobbs, K., Okumura, M., Cerling, T., Moore, J., et al. [Cooperation and individuality among man-eating lions](/publications/Proc. Natl. Acad. Sci. USA 2009 Yeakel.pdf). *Proceedings of the National Academy of Sciences of the USA* 106, 19040–19043. doi:10.1073/pnas.0905309106  
+	* Ritchie S. R., Fraser J. D., <span style="color:#377EB8;"> Libby E.</span>, Morris A. J., Rainey P. B.,  Thomas M. G. (2011). Demographic variation in community-based MRSA skin and soft tissue infection in Auckland, New Zealand. <I> The New Zealand Medical Journal</I>, 124(1332), 21-30.
 
-	* Dominy, N. J., Vogel, E. R., <span style="color:#377EB8;">Yeakel, J. D.</span>, Constantino, P. J., & Lucas, P. W. [Mechanical properties of plant underground storage organs and implications for dietary models of early hominins](/publications/Evol. Biol. 2008 Dominy.pdf). *Evolutionary Biology* 35(3), 159–175. doi:10.1007/s11692-008-9026-7  
+	* <span style="color:#377EB8;"> Libby E.</span>,  Glass L. (2010). The calculus of committee composition. <I> PLoS One</I>, 5(9), e12642. 
 
-	* <span style="color:#377EB8;">Yeakel, J. D.</span>, Bennett, N. C., Koch, P. L., & Dominy, N. J. [The isotopic ecology of African mole rats informs hypotheses on the evolution of human diet](/publications/Proc. Roy. Soc. B 2007 Yeakel.pdf). *Proceedings of the Royal Society of London Series B-Biological Sciences* 274(1619), 1723–1730. doi:10.1098/rspb.2007.0330 
+	* Cardin S., Pelletier P., <span style="color:#377EB8;"> Libby E.</span>, Le Bouter S., Xiao L., Kaab S., Demolombe S., Glass L.,  Nattel S. (2008). Marked differences between atrial and ventricular gene-expression remodeling in dogs with experimental heart failure. <I> Journal of Molecular and Cellular Cardiology</I>, 45(6), 821-831. 
+
+	* Burstein B., <span style="color:#377EB8;"> Libby E.</span>, Calderone A.,  Nattel S. (2008). Differential behaviors of atrial versus ventricular fibroblasts: a potential role for platelet-derived growth factor in atrial-ventricular remodeling differences. <I> Circulation</I>, 117(13), 1630-1641. 
+
+	* <span style="color:#377EB8;"> Libby E.</span>, Perkins T. J.,  Swain P. S. (2007). Noisy information processing through transcriptional regulation. <I> Proceedings of the National Academy of Sciences of the United States of America</I>, 104(17), 7151-7156.
+
+	* Cardin S., <span style="color:#377EB8;"> Libby E.</span>, Pelletier P., Le Bouter S., Shiroshita-Takeshita A., Le Meur N., Leger J., Demolombe S., Ponton A., Glass L.,  Nattel S. (2007). Contrasting gene expression profiles in two canine models of atrial fibrillation. <I> Circulation Research</I>, 100(3), 425-433. 
+
+	* Wang T.-T., Tavera-Mendoza L. E., Laperriere D., <span style="color:#377EB8;"> Libby E.</span>, MacLeod N. B., Nagai Y., Bourdeau V.,  Konstorum A., Lallemant B.,  Zhang R.,
+ Mader S.,  White J.H. (2005). Large-scale in silico and microarray-based identification of direct 1,25-dihydroxyvitamin D3 target genes. <I> Molecular Endocrinology</I>, 19(11), 2685-2695. 
 
 <br>
 
