@@ -11,7 +11,7 @@ image:
 
 
 ### Courses
-	Lecturer in <I> Genetics and Evolution <\I> at Massey University (2009-2012)
+	Lecturer in Genetics and Evolution at Massey University (2009-2012)
 	Lectures on evolutionary algorithms, game theory, lac operon models, genetic networks, systems biology, the evolution of cooperation
 
 	Teaching assistant for Mathematical Models in Biology (2003-2006)
