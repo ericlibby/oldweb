@@ -17,8 +17,7 @@ Email: elibby at santafe.edu
 
 
 
-Past Positions
-=========
+### Past Positions
 **2009--2013**: Post-Doctoral Fellow, New Zealand Institute for Advanced Study  	
 	Advisor: [Paul Rainey](http://evolution.massey.ac.nz)    
 **2008**: AAAS Mass Media Fellow, Voice of America
@@ -31,20 +30,27 @@ Past Positions
 
 <br>
 
-Publications
-=========
+### Publications
 *In review / In prep*
 :	* <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. Time-dependent fitness effects can drive bet-hedging populations extinct. (under review at <I> Proceedings of the Royal Society B: Biological sciences</I>)
+
 	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. Ratcheting and fitness decoupling en route to a major transition (under review at <I> Phil. Trans. R. Soc. B </I>)
+
 	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> Differences in epigenetic information between cells promotes the evolution of a germline (under reviews at <I> Phil. Trans. R. Soc. B </I>)
+
 	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. (submitted to <I> Cancer Discovery </I>)
+
 	* <span style="color:#377EB8;"> Libby E.</span>, Driscoll W.W., Ratcliff W.C. Bet hedging selects for microbial programmed cell death. (in prep)
+
 	* Lind P.A., <span style="color:#377EB8;"> Libby E.</span>, Herzog J., Rainey P.B. The influence of genetic architecture, selection and mutational hot spots on evolutionary predictability. (in prep)
 
 2015
 :	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>   
+
 	* Wolpert D., <span style="color:#377EB8;"> Libby E.</span>, Grochow J., DeDeo S. (2015) "Optimal high-level descriptions of dynamical systems" in <I> From Matter to Life: Information and Causality </I>. Cambridge University Press.  
+
 	* Wolpert D.H., Grochow J.A., <span style="color:#377EB8;"> Libby E.</span>, DeDeo S. (2015) A framework for optimal high-level descriptions in science and engineering---preliminary report. (http://arxiv.org/abs/1409.7403)  
+
 	* Gallie J., <span style="color:#377EB8;"> Libby E.</span>, Jendresen CB., Bertels F., Ferguson G.C., Beaumont H.J.E., Kilstrup M.,  Rainey P.B. (2015) Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens. <I> PLoS Biol </I> 13(3): e1002109. 
 
 
