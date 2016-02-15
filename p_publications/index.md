@@ -41,9 +41,7 @@ Publications
 
 2015
 :	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>   
-
 	* Wolpert D., <span style="color:#377EB8;"> Libby E.</span>, Grochow J., DeDeo S. (2015) "Optimal high-level descriptions of dynamical systems" in <I> From Matter to Life: Information and Causality </I>. Cambridge University Press.    
-
 	* Gallie J., <span style="color:#377EB8;"> Libby E.</span>, Jendresen CB., Bertels F., Ferguson G.C., Beaumont H.J.E., Kilstrup M.,  Rainey P.B. (2015) Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens. <I> PLoS Biol </I> 13(3): e1002109. 
 
 
