@@ -4,7 +4,7 @@ title: "Research"
 tags: [sample post, images, test]
 comments: true
 image:
-  feature: alaskabeachalgae.jpg
+  feature: scuba.jpg
   credit: elibby
 ---
 
