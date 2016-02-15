@@ -4,6 +4,9 @@ title: Curriculum Vitae
 tags: [CV, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
+image:
+  feature: leavespond.jpg
+  credit: elibby
 ---
 
 Eric Libby
@@ -36,10 +39,12 @@ Publications
 *In prep*
 :	* <span style="color:#377EB8;">Yeakel J.D.</span>, Redner S. The dynamic effects of starvation on populations. Written for: *Theoretical Ecology*.     
 
-2016
-:	* <div data-badge-popover="left" class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fevo.2016.00001"></div> <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Smith  E.E., Newsome S.D. Exploring the isotopic niche: isotopic variance, physiological incorporation, and the temporal dynamics of foraging. [*Frontiers in Ecology and Evolution*](http://journal.frontiersin.org/article/10.3389/fevo.2016.00001/full#)    
+2015
+:	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>   
 
-	* Dominy N.J., <span style="color:#377EB8;">Yeakel J.D.</span>, Bhat U., Ramsden L., Wrangham R.W., Lucas P.W. How chimpanzees acquire and use sensory information to select figs. In Review at *Journal of the Royal Society Interface Focus*.     
+	* Wolpert D., <span style="color:#377EB8;"> Libby E.</span>, Grochow J., DeDeo S. (2015) "Optimal high-level descriptions of dynamical systems" in <I> From Matter to Life: Information and Causality </I>. Cambridge University Press.    
+
+	* Gallie J., <span style="color:#377EB8;"> Libby E.</span>, Jendresen CB., Bertels F., Ferguson G.C., Beaumont H.J.E., Kilstrup M.,  Rainey P.B. (2015) Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens. <I> PLoS Biol </I> 13(3): e1002109. 
 
 
 2015
