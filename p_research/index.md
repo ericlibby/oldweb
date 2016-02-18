@@ -41,7 +41,7 @@ Many multicellular organisms grow and develop from a stage in which they are onl
 The <I> P. fluorescens </I> system is an example of a simple life cycle that alternates between unicellular and multicellular phases. This differs from the yeast snowflake system which does not have a single-celled phase-- yeast groups give rise to yeast groups. There are other life cycles, like those found in choanoflagellates, that switch between multiple multicellular and unicellular forms. And in some systems, life cycles can be very plastic and adopt different structures. For example, in the unicellular green algae <I> Chlamydomonas reinhardtii </I>, different environmental conditions can lead to the evolution of life cycles with or without a unicellular phase. I am interested in understanding the diversity of life cycle structure and producing a general theory that predicts which life cycles will evolve given certain environmental conditions. Justin Yeakel and I coordinated a workshop at SFI on Complex Life Investment Strategies to discuss these topics and identify common underlying themes among experimentalists and theoreticians in ecology and evolution. The results of this workshop indicate that this is a rich and fascinating field.
 
 <figure>
-<a href="/images/cdc_cycle.jpg"><img src="/images/cdc_cycle.jpg" width="200"></a>
+<a href="/images/cdc_cycle.jpg"><img src="/images/cdc_cycle.jpg" width="400"></a>
 <figcaption> Figure of <I> Dicrocoelium dendriticum </I> life cycle from CDC website. Parasite life cycles are some of the most terrifying and amazing. </figcaption>
 </figure>
 
