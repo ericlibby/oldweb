@@ -20,8 +20,7 @@ Email: elibby at santafe.edu
 ### Past Positions
 **2009--2013**: Post-Doctoral Fellow, New Zealand Institute for Advanced Study  	
 	Advisor: [Paul Rainey](http://evolution.massey.ac.nz)    
-**2008--2008**: AAAS Mass Media Fellow, Voice of America, Washington DC
-
+**2008--2008**: AAAS Mass Media Fellow, Voice of America, Washington DC          
 **2002--2007**: Ph.D. Center for Nonlinear Dynamics, Dept. Physiology   
 	McGill University, Montreal, Canada   
 	Thesis- [*Investigations into the design and dissection of genetic networks*]	
