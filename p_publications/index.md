@@ -23,7 +23,7 @@ Email: elibby at santafe.edu
 **2008--2008**: AAAS Mass Media Fellow, Voice of America, Washington DC          
 **2002--2007**: Ph.D. Center for Nonlinear Dynamics, Dept. Physiology   
 	McGill University, Montreal, Canada   
-	Thesis- [*Investigations into the design and dissection of genetic networks*]	
+	Thesis- [*Investigations into the design and dissection of genetic networks*]	      
 	Advisor: [Leon Glass](http://www.medicine.mcgill.ca/physio/glasslab/)  
 **1998--2002**: Bachelor of Arts in Computational and Applied Mathematics, Rice University   
 
