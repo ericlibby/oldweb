@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: http://ericlibby.github.io/theme-setup/
+Disallow: http://ericlibby.github.io/posts/
+Disallow: http://ericlibby.github.io/images/
+Disallow: http://ericlibby.github.io/assets/
+Disallow: http://ericlibby.github.io/about/
+Disallow: http://ericlibby.github.io/_templates/
+Disallow: http://ericlibby.github.io/_sass/
+Disallow: http://ericlibby.github.io/_posts/
+Disallow: http://ericlibby.github.io/_layouts/
+Disallow: http://ericlibby.github.io/_includes/
+Disallow: http://ericlibby.github.io/_data/
