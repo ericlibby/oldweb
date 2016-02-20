@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: researchpage
 title: "Research"
 tags: [sample post, images, test]
 comments: true
