@@ -4,7 +4,7 @@ title: "Research"
 tags: [sample post, images, test]
 comments: true
 image:
-  feature: scuba.jpg
+  feature: mushroom_forage.jpg
   credit: elibby
 ---
 
