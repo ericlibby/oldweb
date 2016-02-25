@@ -44,7 +44,7 @@ Email: elibby at santafe.edu
 	* Lind P.A., <span style="color:#377EB8;"> Libby E.</span>, Herzog J., Rainey P.B. The influence of genetic architecture, selection and mutational hot spots on evolutionary predictability. (in prep)
 
 2015
-:	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>   
+:	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>: 10.1007/s10682-015-9814-3.  [link](http://link.springer.com/article/10.1007%2Fs10682-015-9814-3) 
 
 	* Wolpert D., <span style="color:#377EB8;"> Libby E.</span>, Grochow J., DeDeo S. (2015) "Optimal high-level descriptions of dynamical systems" in <I> From Matter to Life: Information and Causality </I>. Cambridge University Press.  
 
