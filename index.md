@@ -8,3 +8,7 @@ image:
 ---
 
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
+
+### --- NEWS ---
+
+3/10/16: Our paper on "Stabilizing Multicellularity Through Ratcheting" was just accepted at <I> Phil. Trans. R. Soc. B </I>!

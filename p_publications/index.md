@@ -33,8 +33,6 @@ Email: elibby at santafe.edu
 *In review / In prep*
 :	* <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. Time-dependent fitness effects can drive bet-hedging populations extinct. (under review at <I> Proceedings of the Royal Society B: Biological sciences</I>)
 
-	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. Ratcheting and fitness decoupling en route to a major transition (under review at <I> Phil. Trans. R. Soc. B </I>)
-
 	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> Differences in epigenetic information between cells promotes the evolution of a germline (under reviews at <I> Phil. Trans. R. Soc. B </I>)
 
 	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. (submitted to <I> Cancer Discovery </I>)
@@ -42,6 +40,10 @@ Email: elibby at santafe.edu
 	* <span style="color:#377EB8;"> Libby E.</span>, Driscoll W.W., Ratcliff W.C. Bet hedging selects for microbial programmed cell death. (in prep)
 
 	* Lind P.A., <span style="color:#377EB8;"> Libby E.</span>, Herzog J., Rainey P.B. The influence of genetic architecture, selection and mutational hot spots on evolutionary predictability. (in prep)
+
+2016
+:	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. (2016) Stabilizing Multicellularity Through Ratcheting (accepted at <I> Phil. Trans. R. Soc. B </I>)
+
 
 2015
 :	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>: 10.1007/s10682-015-9814-3.  [link](http://link.springer.com/article/10.1007%2Fs10682-015-9814-3) 
