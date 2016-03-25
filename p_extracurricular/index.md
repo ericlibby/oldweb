@@ -1,5 +1,5 @@
 ---
-layout: researchpage
+layout: page
 title: "Extracurricular"
 tags: [sample post, images, cooking, hiking, nature]
 comments: true
