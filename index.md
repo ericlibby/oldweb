@@ -12,4 +12,5 @@ My research focuses on the evolution of biological complexity-- particularly the
 ### --- NEWS ---
 3/25/16: There's now an extracurricular section on this webpage featuring posts about some of my other interests. The first post describes a preserved algae dish that is tasty with a heavy dose of umami.
 
+
 3/10/16: Our paper on "Stabilizing Multicellularity Through Ratcheting" was just accepted at <I> Phil. Trans. R. Soc. B </I>!
