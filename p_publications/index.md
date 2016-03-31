@@ -33,8 +33,6 @@ Email: elibby at santafe.edu
 *In review / In prep*
 :	* <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. Time-dependent fitness effects can drive bet-hedging populations extinct. (under review at <I> Proceedings of the Royal Society B: Biological sciences</I>)
 
-	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> Differences in epigenetic information between cells promotes the evolution of a germline (under reviews at <I> Phil. Trans. R. Soc. B </I>)
-
 	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. (submitted to <I> Cancer Discovery </I>)
 
 	* <span style="color:#377EB8;"> Libby E.</span>, Driscoll W.W., Ratcliff W.C. Bet hedging selects for microbial programmed cell death. (in prep)
@@ -42,7 +40,9 @@ Email: elibby at santafe.edu
 	* Lind P.A., <span style="color:#377EB8;"> Libby E.</span>, Herzog J., Rainey P.B. The influence of genetic architecture, selection and mutational hot spots on evolutionary predictability. (in prep)
 
 2016
-:	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. (2016) Stabilizing Multicellularity Through Ratcheting (accepted at <I> Phil. Trans. R. Soc. B </I>)
+:	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Differences in epigenetic information between cells promotes the evolution of a germline (accepted at <I> Phil. Trans. R. Soc. B </I>)
+
+	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. (2016) Stabilizing Multicellularity Through Ratcheting (accepted at <I> Phil. Trans. R. Soc. B </I>)
 
 
 2015
