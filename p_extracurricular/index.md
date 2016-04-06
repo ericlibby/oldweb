@@ -4,6 +4,21 @@ tags: [sample post, images, cooking, hiking, nature]
 comments: true
 ---
 
+### 4/2/2016: Desert Botanical Gardens
+<figure>
+<a href="/images/botgard_fallcactusred.jpg"><img src="/images/botgard_fallcactusred.jpg" width="300"></a>
+<figcaption> Close up of cactus with colors.</figcaption>
+</figure>
+
+Visited the [Desert Botanical Garden](https://www.dbg.org) in Phoenix in the morning before the sun broiled the earth. There was a nice bonding moment with a cactus wren but mostly I spent my time in awe of the fantastic gardening and the beauty of the Sonoran desert.
+
+<figure>
+<a href="/images/botgard_fallcactusred.jpg"><img src="/images/botgard_cactusbroccolired.jpg" width="300"></a>
+<figcaption> A saguaro that looks like a cartoon broccoli.</figcaption>
+</figure>
+
+
+
 ### 3/25/2016: Kombu no tsukudani 
 Through random encounters with this preserved algae dish, I learned that translucent brown-green squares equals deliciousness. The problem was that I could not find any in my local grocery store. This is completely understandable though as the nearest ocean is 1000 km away and the local cuisine follows more of the green chile and corn tortilla persuasion. Wondering if I could make it myself, I found a recipe for [kombu no tsukudani](http://justbento.com/handbook/johbisai/homemade-shio-kombu-kombu-no-tsukudani) that used ingredients available in Santa Fe (including the kombu). 
 

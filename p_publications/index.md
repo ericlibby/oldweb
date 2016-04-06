@@ -39,6 +39,8 @@ Email: elibby at santafe.edu
 
 	* Lind P.A., <span style="color:#377EB8;"> Libby E.</span>, Herzog J., Rainey P.B. The influence of genetic architecture, selection and mutational hot spots on evolutionary predictability. (in prep)
 
+	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. (in prep)
+
 2016
 :	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Differences in epigenetic information between cells promotes the evolution of a germline (accepted at <I> Phil. Trans. R. Soc. B </I>)
 
