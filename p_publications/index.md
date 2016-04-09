@@ -42,7 +42,9 @@ Email: elibby at santafe.edu
 	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. (in prep)
 
 2016
-:	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Differences in epigenetic information between cells promotes the evolution of a germline (accepted at <I> Phil. Trans. R. Soc. B </I>)
+:	Postdoc of SFI including <span style="color:#377EB8;"> Libby E.</span> (2016) Dynamics of beneficial epidemics. posted to arXiv [link](http://arxiv.org/abs/1604.02096)
+
+	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Differences in epigenetic information between cells promotes the evolution of a germline (accepted at <I> Phil. Trans. R. Soc. B </I>)
 
 	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. (2016) Stabilizing Multicellularity Through Ratcheting (accepted at <I> Phil. Trans. R. Soc. B </I>)
 
