@@ -7,7 +7,7 @@ comments: true
 ### 4/2/2016: Desert Botanical Gardens
 <figure>
 <a href="/images/botgard_fallcactusred.jpg"><img src="/images/botgard_fallcactusred.jpg" width="400"></a>
-<figcaption> Close up of cactus with colors.</figcaption>
+<figcaption> Close up of cacti with colors.</figcaption>
 </figure>
 
 Visited the [Desert Botanical Garden](https://www.dbg.org) in Phoenix in the morning before the sun broiled the earth. There was a nice bonding moment with a cactus wren but mostly I spent my time in awe of the fantastic gardening and the beauty of the Sonoran desert.

@@ -42,7 +42,7 @@ Email: elibby at santafe.edu
 	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. (in prep)
 
 2016
-:	Postdoc of SFI including <span style="color:#377EB8;"> Libby E.</span> (2016) Dynamics of beneficial epidemics. posted to arXiv [link](http://arxiv.org/abs/1604.02096)
+:	* Postdoc of SFI including <span style="color:#377EB8;"> Libby E.</span> (2016) Dynamics of beneficial epidemics. posted to arXiv [**link**](http://arxiv.org/abs/1604.02096)
 
 	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Differences in epigenetic information between cells promotes the evolution of a germline (accepted at <I> Phil. Trans. R. Soc. B </I>)
 
@@ -50,7 +50,7 @@ Email: elibby at santafe.edu
 
 
 2015
-:	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>: 10.1007/s10682-015-9814-3.  [link](http://link.springer.com/article/10.1007%2Fs10682-015-9814-3) 
+:	* Wolinsky E., <span style="color:#377EB8;"> Libby E.</span> (2015) Evolution of regulated phenotypic expression during a transition to multicellularity. <I> Evolutionary Ecology </I>: 10.1007/s10682-015-9814-3.  [**link**](http://link.springer.com/article/10.1007%2Fs10682-015-9814-3) 
 
 	* Wolpert D., <span style="color:#377EB8;"> Libby E.</span>, Grochow J., DeDeo S. (2015) "Optimal high-level descriptions of dynamical systems" in <I> From Matter to Life: Information and Causality </I>. Cambridge University Press.  
 
