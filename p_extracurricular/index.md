@@ -5,6 +5,20 @@ comments: true
 ---
 
 ### 4/23/2016
+Hiking in [Valles Caldera National Preserve](https://www.nps.gov/vall/index.htm), we stumbled across some spring ecology starring a lone coyote and a prairie dog community. The prairie dogs were a bit too clever and dove down to hide long before the coyote got close. Briefly, the coyote turned its attention to something a bit more juicy and ill-prepared, i.e. me. Upon closer inspection, it decided to keep trotting along but not before it posed for a few pictures. (Photos taken by Gabby Libby Beans).
+
+
+<figure>
+<a href="/images/vc_vista.jpg"><img src="/images/vc_vista.jpg" width="400"></a>
+<figcaption> Valles Caldera in spring.</figcaption>
+</figure>
+
+<figure class="half">
+	<img src="/images/vc_prairiedog.jpg"></a>
+	<img src="/images/vc_coyote.jpg"></a>
+	<figcaption>Prairie dog and a more dog-like coyote </figcaption>
+</figure>
+
 
 ### 4/10/2016: Garden flowers in bloom
 Flower bulbs and seeds planted in the fall have finally paid off this spring. They may not be as spectacular as the stone fruit blossoms in town but I played a bigger role in their success--- me and the bags of manure I purchased.
@@ -13,7 +27,7 @@ Flower bulbs and seeds planted in the fall have finally paid off this spring. Th
 	<img src="/images/garden_flowers_yellowtulip.jpg">
 	<img src="/images/garden_flowers_purpletulip.jpg">
 	<img src="/images/garden_flowers_blueflower.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+	<figcaption>Garden flowers.</figcaption>
 </figure>
 
 
