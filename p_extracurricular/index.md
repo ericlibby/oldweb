@@ -14,9 +14,9 @@ Hiking in [Valles Caldera National Preserve](https://www.nps.gov/vall/index.htm)
 </figure>
 
 <figure class="half">
-	<img src="/images/vc_prairiedog.jpg"></a>
-	<img src="/images/vc_coyote.jpg"></a>
-	<figcaption>Prairie dog and a more dog-like coyote </figcaption>
+	<a href="/images/vc_prairiedog.jpg"><img src="/images/vc_prairiedog.jpg"></a>
+	<a href="/images/vc_coyote.jpg"><img src="/images/vc_coyote.jpg"></a>
+	<figcaption>Prairie dog (not a dog) and a coyote (closer to dog) </figcaption>
 </figure>
 
 
@@ -24,10 +24,10 @@ Hiking in [Valles Caldera National Preserve](https://www.nps.gov/vall/index.htm)
 Flower bulbs and seeds planted in the fall have finally paid off this spring. They may not be as spectacular as the stone fruit blossoms in town but I played a bigger role in their success--- me and the bags of manure I purchased.
 
 <figure class="third">
-	<img src="/images/garden_flowers_yellowtulip.jpg" height="150">
-	<img src="/images/garden_flowers_purpletulip.jpg" height="150">
-	<img src="/images/garden_flowers_blueflower.jpg" height="150">
-	<figcaption>Garden flowers.</figcaption>
+	<a href="/images/garden_flowers_yellowtulip.jpg"> <img src="/images/garden_flowers_yellowtulip.jpg" height="150"></a>
+	<a href="/images/garden_flowers_purpletulip.jpg"><img src="/images/garden_flowers_purpletulip.jpg" height="150"></a>
+	<a href="/images/garden_flowers_blueflower.jpg"><img src="/images/garden_flowers_blueflower.jpg" height="150"></a>
+	<figcaption>Garden flower success </figcaption>
 </figure>
 
 
@@ -42,7 +42,7 @@ Flower bulbs and seeds planted in the fall have finally paid off this spring. Th
 Visited the [Desert Botanical Garden](https://www.dbg.org) in Phoenix in the morning before the sun broiled the earth. There was a nice bonding moment with a cactus wren but mostly I spent my time in awe of the fantastic gardening and the beauty of the Sonoran desert.
 
 <figure>
-<a href="/images/botgard_fallcactusred.jpg"><img src="/images/botgard_cactusbroccolired.jpg" width="400"></a>
+<a href="/images/botgard_cactusbroccolired.jpg"><img src="/images/botgard_cactusbroccolired.jpg" width="400"></a>
 <figcaption> A saguaro that looks like a cartoon broccoli.</figcaption>
 </figure>
 
