@@ -10,6 +10,9 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 4/23/16: Encountered coyote and prairie dogs at Valles Caldera National Preserve (posted to the extracurricular section).
+
+- 4/10/16: Flowers from my garden posted to the extracurricular section.
 
 - 4/7/16: Finished 72 hours of science  #72hoursofscience with a successful upload to the arXiv [Dynamics of beneficial epidemics](http://arxiv.org/abs/1604.02096)! It is such an honor working with my fantastic colleagues at SFI.
 
