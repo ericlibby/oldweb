@@ -24,9 +24,9 @@ Hiking in [Valles Caldera National Preserve](https://www.nps.gov/vall/index.htm)
 Flower bulbs and seeds planted in the fall have finally paid off this spring. They may not be as spectacular as the stone fruit blossoms in town but I played a bigger role in their success--- me and the bags of manure I purchased.
 
 <figure class="third">
-	<img src="/images/garden_flowers_yellowtulip.jpg" height="100">
-	<img src="/images/garden_flowers_purpletulip.jpg" height="100">
-	<img src="/images/garden_flowers_blueflower.jpg" height="100">
+	<img src="/images/garden_flowers_yellowtulip.jpg" height="150">
+	<img src="/images/garden_flowers_purpletulip.jpg" height="150">
+	<img src="/images/garden_flowers_blueflower.jpg" height="150">
 	<figcaption>Garden flowers.</figcaption>
 </figure>
 
