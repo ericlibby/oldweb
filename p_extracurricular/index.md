@@ -4,6 +4,22 @@ tags: [sample post, images, cooking, hiking, nature]
 comments: true
 ---
 
+### 4/23/2016
+
+### 4/10/2016: Garden flowers in bloom
+Flower bulbs and seeds planted in the fall have finally paid off this spring. They may not be as spectacular as the stone fruit blossoms in town but I played a bigger role in their success--- me and the bags of manure I purchased.
+
+{% highlight html %}
+<figure class="third">
+	<img src="/images/garden_flowers_yellowtulip.jpg">
+	<img src="/images/garden_flowers_purpletulip.jpg">
+	<img src="/images/garden_flowers_blueflower.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+{% endhighlight %}
+
+
+
 ### 4/2/2016: Desert Botanical Gardens
 <figure>
 <a href="/images/botgard_fallcactusred.jpg"><img src="/images/botgard_fallcactusred.jpg" width="400"></a>
