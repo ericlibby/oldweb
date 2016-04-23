@@ -9,9 +9,16 @@ Hiking in [Valles Caldera National Preserve](https://www.nps.gov/vall/index.htm)
 
 
 <figure>
-<a href="/images/vc_vista.jpg"><img src="/images/vc_vista.jpg" width="400"></a>
+<a href="/images/vc_vista.jpg"><img src="/images/vc_vista.jpg" width="600"></a>
 <figcaption> Valles Caldera in spring.</figcaption>
 </figure>
+
+<figure>
+<a href="/images/vc_prairiedog.jpg"><img src="/images/vc_prairiedog.jpg" height="200"></a>
+<a href="/images/vc_coyote.jpg"><img src="/images/vc_coyote.jpg" height="200"></a>
+<figcaption> Valles Caldera in spring.</figcaption>
+</figure>
+
 
 <figure class="half">
 	<img src="/images/vc_prairiedog.jpg"></a>
