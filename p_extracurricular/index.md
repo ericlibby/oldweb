@@ -6,6 +6,13 @@ comments: true
 
 ### 5/1/2016
 MeowWolf.
+
+<figure class="half">
+	<a href="/images/fridge.jpg"><img src="/images/fridge.jpg"></a>
+	<a href="/images/bluefluffy.jpg"><img src="/images/bluefluffy.jpg"></a>
+	<figcaption>Stepping into a strange world with strange creatures </figcaption>
+</figure>
+
 <figure>
 <a href="/images/fluorescentscuba.jpg"><img src="/images/fluorescentscuba.jpg" width="400"></a>
 <figcaption> The introduction to MeowWolf.</figcaption>
