@@ -4,6 +4,18 @@ tags: [sample post, images, cooking, hiking, nature]
 comments: true
 ---
 
+### 5/1/2016
+MeowWolf.
+
+<figure class="half">
+	<a href="/images/newworld.jpg"><img src="/images/newworld.jpg"></a>
+	<a href="/images/bluefluffy.jpg"><img src="/images/bluefluffy.jpg"></a>
+	<figcaption>Meow Wolf </figcaption>
+</figure>
+
+
+
+
 ### 4/23/2016
 Hiking in [Valles Caldera National Preserve](https://www.nps.gov/vall/index.htm), we stumbled across some spring ecology starring a lone coyote and a prairie dog community. The prairie dogs were a bit too clever and dove down to hide long before the coyote got close. Briefly, the coyote turned its attention to something a bit more juicy and ill-prepared, i.e. me. Upon closer inspection, it decided to keep trotting along but not before it posed for a few pictures. (Photos taken by Gabby Libby Beans).
 
