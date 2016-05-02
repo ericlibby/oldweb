@@ -6,11 +6,35 @@ comments: true
 
 ### 5/1/2016
 MeowWolf.
+<figure>
+<a href="/images/fluorescentscuba.jpg"><img src="/images/fluorescentscuba.jpg" width="400"></a>
+<figcaption> The introduction to MeowWolf.</figcaption>
+</figure>
 
-<figure class="half">
-	<a href="/images/newworld.jpg"><img src="/images/newworld.jpg"></a>
-	<a href="/images/bluefluffy.jpg"><img src="/images/bluefluffy.jpg"></a>
-	<figcaption>Meow Wolf </figcaption>
+<figure>
+<a href="/images/fridge.jpg"><img src="/images/fridge.jpg" height="300"></a>
+<figcaption> Stepping into a strange new world</figcaption>
+</figure>
+
+<figure>
+<a href="/images/weirdscience.jpg"><img src="/images/weirdscience.jpg" width="300"></a>
+<figcaption> A strange world, indeed.</figcaption>
+</figure>
+
+<figure>
+<a href="/images/bluefluffy.jpg"><img src="/images/bluefluffy.jpg" height="300"></a>
+<figcaption> Creatures abound.</figcaption>
+</figure>
+
+
+<figure>
+<a href="/images/wreath.jpg"><img src="/images/wreath.jpg" width="300"></a>
+<figcaption> More glowing things</figcaption>
+</figure>
+
+<figure>
+<a href="/images/screenworship.jpg"><img src="/images/screenworship.jpg" width="300"></a>
+<figcaption> So much visual stimulation.</figcaption>
 </figure>
 
 
