@@ -10,6 +10,9 @@ image:
 
 
 ### Talks and Seminars
+* University of Arizona's quantitative biology colloquium series (2016)
+"The Evolution of New Kinds of Individuals" 
+
 * The Evolutionary Ecology of Complex Investment Strategies (2015)
 "Phenotype switching, life cycles, and oddities of optional paths"
 

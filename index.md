@@ -10,6 +10,10 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 5/1/16: Meow Wolf visit posted to the extracurricular section.
+
+- 4/26/16: Gave a colloquium on "The Evolution of New Kinds of Individuals" as part of the University of Arizona's quantitative biology colloquium series. Loved meeting with faculty and students to talk about the great research going on at U of A.
+
 - 4/23/16: Encountered coyote and prairie dogs at Valles Caldera National Preserve (posted to the extracurricular section).
 
 - 4/10/16: Flowers from my garden posted to the extracurricular section.
