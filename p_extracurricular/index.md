@@ -3,6 +3,19 @@ layout: page
 tags: [sample post, images, cooking, hiking, nature]
 comments: true
 ---
+### 5/7/2016
+It wasn't hard to find but it wasn't straightforward either. Plaza Blanca is this wonderful set of rock formations hidden in the New Mexico country side next to a mosque. It is a great place for a few hour hike and I imagine it is even better at night during a full moon. Next time...
+<figure>
+<a href="/images/pb_vista.jpg"><img src="/images/pb_vista.jpg" width="600"></a>
+<figcaption> Plaza Blanca rock formations</figcaption>
+</figure>
+<figure>
+<a href="/images/pb_redflower.jpg"><img src="/images/pb_redflower.jpg" width="600"></a>
+<figcaption> Wildflowers in bloom</figcaption>
+</figure>
+
+
+
 
 ### 5/1/2016
 Santa Fe's latest art attraction [Meow Wolf](https://meowwolf.com/) has received attention in the national news (see the [NPR story](http://www.npr.org/2016/03/27/471732581/diy-artists-paint-the-town-strange-with-some-help-from-george-r-r-martin)). So on a cold, rainy spring day with snow falling and melting it seemed like a perfect opportunity to step into this strange world. The alternative was to stress about whether my plants would survive the capricious weather. Meow Wolf is an absolute spectacle with too much to absorb in one pass. I rest in comfort that I will visit again.
