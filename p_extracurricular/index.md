@@ -6,11 +6,11 @@ comments: true
 ### 5/7/2016
 It wasn't hard to find but it wasn't straightforward either. Plaza Blanca is this wonderful set of rock formations hidden in the New Mexico country side next to a mosque. It is a great place for a few hour hike and I imagine it is even better at night during a full moon. Next time...
 <figure>
-<a href="/images/pb_vista.jpg"><img src="/images/pb_vista.jpg" width="600"></a>
+<a href="/images/pb_vista.jpg"><img src="/images/pb_vista.jpeg" width="600"></a>
 <figcaption> Plaza Blanca rock formations</figcaption>
 </figure>
 <figure>
-<a href="/images/pb_redflower.jpg"><img src="/images/pb_redflower.jpg" width="600"></a>
+<a href="/images/pb_redflower.jpg"><img src="/images/pb_redflower.jpeg" width="600"></a>
 <figcaption> Wildflowers in bloom</figcaption>
 </figure>
 
