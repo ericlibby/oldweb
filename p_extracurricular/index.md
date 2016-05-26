@@ -3,6 +3,15 @@ layout: page
 tags: [sample post, images, cooking, hiking, nature]
 comments: true
 ---
+
+### 5/20/2016
+Gravlax! I used the recipe from [Cooks Illustrated](https://www.cooksillustrated.com/recipes/1280-gravlax) because onion juice seemed like a good counter to the lack of fresh salmon from the surrounding desert. One slight change, which was part intentional and part accidental, was letting it cure for an extra 24 hours. The results with a little sour cream and some nearly dehydrated dark bread were excellent. Cured fish makes an amazing breakfast food.
+<figure>
+<a href="/images/gravlax.jpg"><img src="/images/gravlax.jpeg" width="600"></a>
+<figcaption> Gravlax</figcaption>
+</figure>
+
+
 ### 5/7/2016
 It wasn't hard to find but it wasn't straightforward either. Plaza Blanca is this wonderful set of rock formations hidden in the New Mexico country side next to a mosque. It is a great place for a few hour hike and I imagine it is even better at night during a full moon. Next time...
 <figure>
