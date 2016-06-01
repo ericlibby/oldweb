@@ -3,6 +3,19 @@ layout: page
 tags: [sample post, images, cooking, hiking, nature]
 comments: true
 ---
+### 5/30/2016
+One of my favorite hikes in the Santa Fe area is the Rio En Medio hike. It winds along a cold stream (river by Santa Fe standards) under the cover of a forest with ponderosa pines and oaks. The flowers along the trail are beautiful and fragrant. The hike leads up to a waterfall that you can go into as long as you don't mind losing sensation in your toes for a while. 
+
+<figure>
+<a href="/images/rio_en_medio_hike.jpg"><img src="/images/rio_en_medio_hike.jpg" width="400"></a>
+<figcaption>The entry to the waterfall</figcaption>
+</figure>
+
+<figure>
+<a href="/images/rio_en_medio_flowers.jpg"><img src="/images/rio_en_medio_flowers.jpg" width="400"></a>
+<figcaption>Spring blooms</figcaption>
+</figure>
+
 
 ### 5/20/2016
 Gravlax! I used the recipe from [Cooks Illustrated](https://www.cooksillustrated.com/recipes/1280-gravlax) because onion juice seemed like a good counter to the lack of fresh salmon from the surrounding desert. One slight change, which was part intentional and part accidental, was letting it cure for an extra 24 hours. The results with a little sour cream and some nearly dehydrated dark bread were excellent. Cured fish makes an amazing breakfast food.

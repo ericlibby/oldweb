@@ -10,6 +10,8 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 5/30/16: Rio En Medio hike in the extracurricular section.
+
 - 5/20/16: Gravlax in the extracurricular section.
 
 - 5/18/16: "Time-dependent fitness effects can drive bet-hedging populations extinct" article with Will Ratcliff posted to [bioRxiv](http://biorxiv.org/content/early/2016/05/18/054007).
