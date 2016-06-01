@@ -7,12 +7,12 @@ comments: true
 One of my favorite hikes in the Santa Fe area is the Rio En Medio hike. It winds along a cold stream (river by Santa Fe standards) under the cover of a forest with ponderosa pines and oaks. The flowers along the trail are beautiful and fragrant. The hike leads up to a waterfall that you can go into as long as you don't mind losing sensation in your toes for a while. 
 
 <figure>
-<a href="/images/rio_en_medio_hike.jpg"><img src="/images/rio_en_medio_hike.jpg" width="400"></a>
+<a href="/images/rio_en_medio_hike.jpg"><img src="/images/rio_en_medio_hike.jpg" width="600"></a>
 <figcaption>The entry to the waterfall</figcaption>
 </figure>
 
 <figure>
-<a href="/images/rio_en_medio_flowers.jpg"><img src="/images/rio_en_medio_flowers.jpg" width="400"></a>
+<a href="/images/rio_en_medio_flowers.jpg"><img src="/images/rio_en_medio_flowers.jpg" width="600"></a>
 <figcaption>Spring blooms</figcaption>
 </figure>
 
