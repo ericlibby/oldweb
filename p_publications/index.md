@@ -31,7 +31,7 @@ Email: elibby at santafe.edu
 
 ### Publications
 *In review / In prep*
-:	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. Drivers of microbial maintenance and minimal energy requirements. (in review at <I> Frontiers in Microbiology <\I>)
+:	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. Drivers of microbial maintenance and minimal energy requirements. (in review at <I> Frontiers in Microbiology </I>)
 
 	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. (submitted to <I> Cancer Discovery </I>)
 
