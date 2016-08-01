@@ -14,7 +14,7 @@ My research focuses on the evolution of biological complexity-- particularly the
 
 - 7/15/16: We posted our paper with adaptive networks and voting paradoxes called "Strategic tradeoffs in competitor dynamics on adaptive networks" on [arXiv](https://arxiv.org/abs/1607.04632)
 
-- 6/21/16: Gave talk at [Evolution](http://www.evolutionmeetings.org/evolution-2016---austin-texas.html) conference entitled "Predicting life's tape". There were lots of great talks and it was great hearing what was going on in the field.
+- 6/21/16: Gave talk at [Evolution](http://www.evolutionmeetings.org/evolution-2016---austin-texas.html) conference entitled "Predicting life's tape". There were lots of great talks and it was fun hearing what was going on in the field.
 
 - 6/15/16: Posted "Programmed cell death can increase the efficacy of microbial bet-hedging" to [bioRxiv](http://biorxiv.org/content/early/2016/06/15/059071). With cell death and bet-hedging it is like Russian roulette with microbes.
 
