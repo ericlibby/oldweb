@@ -31,22 +31,25 @@ Email: elibby at santafe.edu
 
 ### Publications
 *In review / In prep*
-:	* <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. Time-dependent fitness effects can drive bet-hedging populations extinct. (under review at <I> Proceedings of the Royal Society B: Biological sciences</I>)
+:	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. Drivers of microbial maintenance and minimal energy requirements. (in review at <I> Frontiers in Microbiology <\I>)
 
 	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. (submitted to <I> Cancer Discovery </I>)
 
-	* <span style="color:#377EB8;"> Libby E.</span>, Driscoll W.W., Ratcliff W.C. Bet hedging selects for microbial programmed cell death. (in prep)
-
 	* Lind P.A., <span style="color:#377EB8;"> Libby E.</span>, Herzog J., Rainey P.B. The influence of genetic architecture, selection and mutational hot spots on evolutionary predictability. (in prep)
 
-	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. (in prep)
 
 2016
-:	* Postdocs of SFI including <span style="color:#377EB8;"> Libby E.</span> (2016) Dynamics of beneficial epidemics. posted to arXiv [**link**](http://arxiv.org/abs/1604.02096)
+:	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. posted to arXiv [**link**](https://arxiv.org/abs/1607.04632) (in review at Science Advances)
 
-	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Differences in epigenetic information between cells promotes the evolution of a germline (accepted at <I> Phil. Trans. R. Soc. B </I>)
+	* <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. Time-dependent fitness effects can drive bet-hedging populations extinct. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/05/18/054007) (in review at <I> American Naturalist</I>)
 
-	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. (2016) Stabilizing Multicellularity Through Ratcheting (accepted at <I> Phil. Trans. R. Soc. B </I>)
+	* <span style="color:#377EB8;"> Libby E.</span>, Driscoll W.W., Ratcliff W.C. Programmed cell death can increase the efficacy of microbial bet-hedging. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/06/15/059071) (in review at <I> PLoS Comp Biol </I>)
+
+	* Postdocs of SFI including <span style="color:#377EB8;"> Libby E.</span> (2016) Dynamics of beneficial epidemics. posted to arXiv [**link**](http://arxiv.org/abs/1604.02096)
+
+	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Epigenetic inheritance systems contribute to the evolution of a germline. <I> Phil. Trans. R. Soc. B </I> 371: 20150445. [**link**](http://rstb.royalsocietypublishing.org/content/371/1701/20150445)
+
+	* <span style="color:#377EB8;"> Libby E.</span>, Conlin P., Kerr B., Ratcliff W.C. (2016) Stabilizing Multicellularity Through Ratcheting. <I> Phil. Trans. R. Soc. B </I> 371: 20150444.  [**link**](http://rstb.royalsocietypublishing.org/content/371/1701/20150444)
 
 
 2015
