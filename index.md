@@ -10,6 +10,8 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 8/05/16: Presenting poster "The Influence of Genetic Architecture and Mutation Hot Spots on Evolutionary Predictability" at [ASM Experimental Evolution](http://conferences.asm.org/index.php/upcoming-conferences/2ndasm-conference-on-experimental-microbial-evolution).
+
 - 8/02/16: Giving talk at [IAL8 Lichens in Deep Time](http://ial8.luomus.fi/) conference entitled "Is a lichen an evolutionary individual".
 
 - 7/15/16: We posted our paper with adaptive networks and voting paradoxes called "Strategic tradeoffs in competitor dynamics on adaptive networks" on [arXiv](https://arxiv.org/abs/1607.04632)
