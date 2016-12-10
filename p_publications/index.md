@@ -43,9 +43,9 @@ Email: elibby at santafe.edu
 
 	* Postdocs of SFI including <span style="color:#377EB8;"> Libby E.</span> Dynamics of beneficial epidemics. posted to arXiv [**link**](http://arxiv.org/abs/1604.02096) (in review at <I> PNAS </I>)
 
-	* Kallus, Y., Miller, J., <span style="color:#377EB8;"> Libby E.</span> Paradoxes in microbial trade of leaky goods. published on bioRxiv [**link**](http://biorxiv.org/content/early/2016/12/09/092882) (submitted)
+	* Kallus, Y., Miller, J., <span style="color:#377EB8;"> Libby E.</span> Paradoxes in microbial trade of leaky goods. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/12/09/092882) (submitted)
 
-	* <span style="color:#377EB8;"> Libby E.</span>, Grochow, J., DeDeo, S., Wolpert, D. A quantitative definition of organismality and its application to lichen. [**link**](https://arxiv.org/abs/1612.00036)
+	* <span style="color:#377EB8;"> Libby E.</span>, Grochow, J., DeDeo, S., Wolpert, D. A quantitative definition of organismality and its application to lichen. posted to arXiv [**link**](https://arxiv.org/abs/1612.00036)
 
 2016
 :	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Epigenetic inheritance systems contribute to the evolution of a germline. <I> Phil. Trans. R. Soc. B </I> 371: 20150445. [**link**](http://rstb.royalsocietypublishing.org/content/371/1701/20150445)
