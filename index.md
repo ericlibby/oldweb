@@ -14,6 +14,10 @@ My research focuses on the evolution of biological complexity-- particularly the
 
 - 11/30/16: Our paper "A quantitative definition of organismality and its application to lichen" is on the [arXiv](https://arxiv.org/abs/1612.00036). We use state space compression to determine the best "organisms" for prediction.
 
+- 11/16/16: Participated in "Statistical Physics, Information Processing and Biology" [workshop](https://www.santafe.edu/events/statistical-physics-information-processing-an) at the Santa Fe Institute. Interesting discussions on a variety of topics. 
+
+- 8/22/16: Gave a talk at "Limits to Prediction" [workshop](https://www.santafe.edu/events/limits-to-prediction1) on predictability in microbial evolution.
+
 - 8/05/16: Presenting poster "The Influence of Genetic Architecture and Mutation Hot Spots on Evolutionary Predictability" at [ASM Experimental Evolution](http://conferences.asm.org/index.php/upcoming-conferences/2ndasm-conference-on-experimental-microbial-evolution).
 
 - 8/02/16: Giving talk at [IAL8 Lichens in Deep Time](http://ial8.luomus.fi/) conference entitled "Is a lichen an evolutionary individual".
