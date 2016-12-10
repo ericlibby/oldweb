@@ -10,6 +10,10 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 12/09/16: Posted our paper "Paradoxes in Leaky Microbial Trade" to [bioRxiv](http://biorxiv.org/content/early/2016/12/09/092882). Yoav Kallus, John Miller, and I found interesting behavior in a model of microbial communities producing metabolites.
+
+- 11/30/16: Our paper "A quantitative definition of organismality and its application to lichen" is on the [arXiv](https://arxiv.org/abs/1612.00036). We use state space compression to determine the best "organisms" for prediction.
+
 - 8/05/16: Presenting poster "The Influence of Genetic Architecture and Mutation Hot Spots on Evolutionary Predictability" at [ASM Experimental Evolution](http://conferences.asm.org/index.php/upcoming-conferences/2ndasm-conference-on-experimental-microbial-evolution).
 
 - 8/02/16: Giving talk at [IAL8 Lichens in Deep Time](http://ial8.luomus.fi/) conference entitled "Is a lichen an evolutionary individual".
