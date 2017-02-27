@@ -31,21 +31,23 @@ Email: elibby at santafe.edu
 
 ### Publications
 *In review*
-:	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. Drivers of microbial maintenance and minimal energy requirements. (in review at <I> Frontiers in Microbiology </I>)
-
-	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. (in review at <I> PNAS </I>)
-
-	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. posted to arXiv [**link**](https://arxiv.org/abs/1607.04632) (in review at Science Advances)
+:	* Hebert-Dufresne L., Allard A., Noel P-A.,Young J-G.,  <span style="color:#377EB8;"> Libby E.</span> Strategic tradeoffs in competitor dynamics on adaptive networks. posted to arXiv [**link**](https://arxiv.org/abs/1607.04632) (in review at <I> Nature Communications </I>)
 
 	* <span style="color:#377EB8;"> Libby E.</span>,  Ratcliff W.C. Time-dependent fitness effects can drive bet-hedging populations extinct. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/05/18/054007) (in review at <I> American Naturalist</I>)
 
 	* <span style="color:#377EB8;"> Libby E.</span>, Driscoll W.W., Ratcliff W.C. Programmed cell death can increase the efficacy of microbial bet-hedging. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/06/15/059071) (in review at <I> Scientific Reports </I>)
 
-	* Postdocs of SFI including <span style="color:#377EB8;"> Libby E.</span> Dynamics of beneficial epidemics. posted to arXiv [**link**](http://arxiv.org/abs/1604.02096) (in review at <I> PNAS </I>)
+	* Postdocs of SFI including <span style="color:#377EB8;"> Libby E.</span> Dynamics of beneficial epidemics. posted to arXiv [**link**](http://arxiv.org/abs/1604.02096) (in review at <I> Nature Communications </I>)
 
-	* Kallus, Y., Miller, J., <span style="color:#377EB8;"> Libby E.</span> Paradoxes in microbial trade of leaky goods. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/12/09/092882) (submitted)
+	* Kallus, Y., Miller, J., <span style="color:#377EB8;"> Libby E.</span> Paradoxes in microbial trade of leaky goods. posted to bioRxiv [**link**](http://biorxiv.org/content/early/2016/12/09/092882) (in review at <I> Nature Communications </I>)
 
-	* <span style="color:#377EB8;"> Libby E.</span>, Grochow, J., DeDeo, S., Wolpert, D. A quantitative definition of organismality and its application to lichen. posted to arXiv [**link**](https://arxiv.org/abs/1612.00036)
+	* <span style="color:#377EB8;"> Libby E.</span>, Grochow, J., DeDeo, S., Wolpert, D. A quantitative definition of organismality and its application to lichen. posted to arXiv [**link**](https://arxiv.org/abs/1612.00036) (in review)
+
+2017
+:	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. <I> PNAS </I> published ahead of print. [**link**](http://www.pnas.org/content/early/2017/02/24/1615015114)
+
+	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. Drivers of microbial maintenance and minimal energy requirements. <I> Frontiers in Microbiology </I> 8: 31. [**link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281582/pdf/fmicb-08-00031.pdf)
+
 
 2016
 :	* Lachmann M., <span style="color:#377EB8;"> Libby E.</span> (2016) Epigenetic inheritance systems contribute to the evolution of a germline. <I> Phil. Trans. R. Soc. B </I> 371: 20150445. [**link**](http://rstb.royalsocietypublishing.org/content/371/1701/20150445)

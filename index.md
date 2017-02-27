@@ -10,6 +10,10 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 2/27/17: I am lucky to collaborate with great scientists including Luz Tavera-Mendoza. Our [paper](http://www.pnas.org/content/early/2017/02/24/1615015114) "Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells" is now available on the PNAS website. 
+
+- 1/31/17: "Drivers of microbial maintenance and minimal energy requirements" was published in [Frontiers in Microbiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281582/pdf/fmicb-08-00031.pdf). Thanks to lead author and SFI racquetball "God of Thunder" Chris Kempes for his tour de force. 
+
 - 12/09/16: Posted our paper "Paradoxes in Leaky Microbial Trade" to [bioRxiv](http://biorxiv.org/content/early/2016/12/09/092882). Yoav Kallus, John Miller, and I found interesting behavior in a model of microbial communities producing metabolites.
 
 - 11/30/16: Our paper "A quantitative definition of organismality and its application to lichen" is on the [arXiv](https://arxiv.org/abs/1612.00036). We use state space compression to determine the best "organisms" for prediction.
