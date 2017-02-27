@@ -44,9 +44,9 @@ Email: elibby at santafe.edu
 	* <span style="color:#377EB8;"> Libby E.</span>, Grochow, J., DeDeo, S., Wolpert, D. A quantitative definition of organismality and its application to lichen. posted to arXiv [**link**](https://arxiv.org/abs/1612.00036) (in review)
 
 2017
-:	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. <I> PNAS </I> published ahead of print. [**link**](http://www.pnas.org/content/early/2017/02/24/1615015114)
+:	* Tavera-Mendoza L., Westerling T., <span style="color:#377EB8;"> Libby E.</span>, Marusyk A., Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. (2017) Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. <I> PNAS </I> published ahead of print. [**link**](http://www.pnas.org/content/early/2017/02/24/1615015114)
 
-	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. Drivers of microbial maintenance and minimal energy requirements. <I> Frontiers in Microbiology </I> 8: 31. [**link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281582/pdf/fmicb-08-00031.pdf)
+	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. (2017) Drivers of microbial maintenance and minimal energy requirements. <I> Frontiers in Microbiology </I> 8: 31. [**link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281582/pdf/fmicb-08-00031.pdf)
 
 
 2016
