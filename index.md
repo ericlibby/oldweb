@@ -10,6 +10,9 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, development, cooperation, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+
+- 12/01/17: I have officially started a faculty position in the Department of Mathematics and Statistics at Ume&aring; University.
+
 - 2/27/17: I am lucky to collaborate with great scientists including Luz Tavera-Mendoza. Our [paper](http://www.pnas.org/content/early/2017/02/24/1615015114) "Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells" is now available on the PNAS website. 
 
 - 1/31/17: "Drivers of microbial maintenance and minimal energy requirements" was published in [Frontiers in Microbiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281582/pdf/fmicb-08-00031.pdf). Thanks to lead author and SFI racquetball "God of Thunder" Chris Kempes for his tour de force. 
