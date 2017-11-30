@@ -11,13 +11,11 @@ image:
 
 
 ### Courses
-	Teaching Linear Algebra (2018)
-
 	Lecturer in Genetics and Evolution at Massey University (2009-2012)
-	#Topics included evolutionary algorithms, game theory, lac operon models, genetic networks, systems biology, the evolution of cooperation
+	Lectures on evolutionary algorithms, game theory, lac operon models, genetic networks, systems biology, the evolution of cooperation
 
 	Teaching assistant for Mathematical Models in Biology (2003-2006)
-	#Tutorial series on finite difference equations, boolean network dynamics, fractals, continuous differential equations, and chaos.
+	Tutorial series on finite difference equations, boolean network dynamics, fractals, continuous differential equations, and chaos.
 
 	
 <figure>
@@ -41,6 +39,22 @@ image:
 	Introduction to programming in MATLAB for SFI REUs
 
 	Complexity Explorer: Online Course (MOOC tutorial) on Optimization Theory (in prep for 2016 release)
+
+
+### McGill Lab TAs
+	Cardiovascular lab with electrocardiographs (2003, 2007)
+
+	Compound action potentials with frog sciatic nerves (2005, 2006)
+
+	Fourier analysis of sleeping cycles and blood pressure (2004-2006)
+
+	Modeling circadian rhythm genetic networks (2005)
+
+	Vestibular ocular reflex (2004)
+
+	Signal acquisition and processing with Fourier transforms (2003)
+	
+	Modeling chemical reactions with differential equations (2003)
 
 
 
