@@ -4,4 +4,3 @@ http://ericlibby.github.io/p_research/
 http://ericlibby.github.io/p_publications/
 http://ericlibby.github.io/p_teaching/
 http://ericlibby.github.io/p_outreach/
-http://ericlibby.github.io/p_extracurricular/
