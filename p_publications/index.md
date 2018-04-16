@@ -33,18 +33,16 @@ Email: elibbyscience at gmail.com
 
 ### Publications
 2018
-:	* E Libby, WW Driscoll, WC Ratcliff. Programmed cell death can increase the efficacy of microbial bet-hedging. <I> Scientific reports </I> 8(1): 1120. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
+:	* <span style="color:#377EB8;"> E Libby</span>, WW Driscoll, WC Ratcliff. Programmed cell death can increase the efficacy of microbial bet-hedging. <I> Scientific reports </I> 8(1): 1120. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
 
 2017
-:	* WC Ratcliff, M Herron, PL Conlin, E Libby. Nascent life cycles and the emergence of higher-level individuality. <I> Phil. Trans. R. Soc. B </I> 372(1735): 20160420. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
+:	* WC Ratcliff, M Herron, PL Conlin, <span style="color:#377EB8;"> E Libby</span>. Nascent life cycles and the emergence of higher-level individuality. <I> Phil. Trans. R. Soc. B </I> 372(1735): 20160420. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
 
-	* Y Kallus, JH Miller, E Libby. Paradoxes in leaky microbial trade. <I> Nature Communications </I> 8(1): 1361.
+	* Y Kallus, JH Miller, <span style="color:#377EB8;"> E Libby</span>. Paradoxes in leaky microbial trade. <I> Nature Communications </I> 8(1): 1361.
 
-	* L Hébert-Dufresne, A Allard, PA Noël, JG Young, E Libby. Strategic tradeoffs in competitor dynamics on adaptive networks
-<I> Scientific reports </I>. 7 (1), 7576
+	* L Hébert-Dufresne, A Allard, PA Noël, JG Young, <span style="color:#377EB8;"> E Libby</span>. Strategic tradeoffs in competitor dynamics on adaptive networks. <I> Scientific reports </I>. 7 (1), 7576.
 
-
-	* L Tavera-Mendoza,T Westerling, E Libby, A Marusyk,L Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. (2017) Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. <I> PNAS </I> published ahead of print. [**link**](http://www.pnas.org/content/early/2017/02/24/1615015114)
+	* L Tavera-Mendoza,T Westerling, <span style="color:#377EB8;"> E Libby</span>, A Marusyk,L Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M. (2017) Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. <I> PNAS </I> 114(11):E2186-E2194. [**link**](http://www.pnas.org/content/early/2017/02/24/1615015114)
 
 	* Kempes, C.K., van Bodegom P.M., Wolpert D.,  <span style="color:#377EB8;"> Libby E.</span>, Amend J.,  Hoehler T. (2017) Drivers of microbial maintenance and minimal energy requirements. <I> Frontiers in Microbiology </I> 8: 31. [**link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281582/pdf/fmicb-08-00031.pdf)
 
