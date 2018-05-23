@@ -1,6 +1,6 @@
 ---
 layout: studentpage
-title: "People"
+title: 
 tags: [students, research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,7 +10,7 @@ image:
 ---
 ## What we do
 
-We focus on microbial systems in order to understand the origins of biological complexity. Microbes are ideal because they exhibit tremendous diversity in terms of life strategies-- so much so that they often obfuscate concepts like individuals or organism that are clearer in higher level systems. In general, most biological complexity has its origins, if not its perfection, in these systems. 
+We focus on microbial systems in order to understand the origins of biological complexity. Microbes are ideal because they exhibit tremendous diversity in terms of life strategies-- so much so that they often obfuscate concepts like individual or organism that are clearer in higher level systems. In general, most biological complexity has its origins, if not its perfection, in these systems. 
 
 An added bonus of microbes is that some are very amenable to experimental study (others, however are complete mysteries). Modern lab techniques enable us to learn how mutations in the genomes of these organisms translate into different-- possibly novel-- phenotypes. We collaborate with talented experimentalists to marry theory with empirical results to uncover general principles of how life evolves to be complex.
 
@@ -72,7 +72,7 @@ I am captivated by the diverse spectrum of life and want to find general princip
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Graduate and Undergraduate Researchers</span> 
 <div>   
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p>
-<b>Your name here!</b> Opportunities abound. Please email me if you are interested.<BR> <BR> <BR> <BR> 
+<b>Your name here!</b> Opportunities abound. I have a funded PhD position. Please email me if you are interested.<BR> <BR> <BR> <BR> 
 </div>   
 
 
