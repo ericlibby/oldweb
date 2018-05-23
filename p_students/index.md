@@ -8,6 +8,8 @@ image:
   feature: urchins.jpg
   credit: elibby
 ---
+
+
 ## What we do
 
 We focus on microbial systems in order to understand the origins of biological complexity. Microbes are ideal because they exhibit tremendous diversity in terms of life strategies-- so much so that they often obfuscate concepts like individual or organism that are clearer in higher level systems. In general, most biological complexity has its origins, if not its perfection, in these systems. 
