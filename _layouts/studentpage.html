@@ -1,59 +1,32 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
 <head>
-{% include _head.html %}
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1561.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 6.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000ee; -webkit-text-stroke: 0px #0000ee}
+  </style>
 </head>
-
-<body class="page">
-
-{% include _browser-upgrade.html %}
-
-{% include _navigation.html %}
-
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-students.html %}
-  </div>
-  <article class="page">
-    <h1>{{ page.title }}</h1>
-    <div class="article-wrap">
-      {{ content }}
-      {% if page.share != false %}
-        <hr />
-        {% include _social-share.html %}
-      {% endif %}
-    </div><!-- /.article-wrap -->
-    {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include _scripts.html %}
-
+<body>
+<p class="p1"><span class="s1">{% include _head.html %} {% include _browser-upgrade.html %} {% include _navigation.html %} {% if page.image.feature %}</span></p>
+<p class="p1"><span class="s1"> {% if page.image.credit %} Photo Credit: <a href="file:///Users/elibby/Documents/GitHub/ericlibby.github.io/_layouts/%7B%7B%20page.image.creditlink%20%7D%7D"><span class="s2">{{ page.image.credit }}</span></a> {% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p1"><span class="s1">{% include _author-students.html %}<span class="Apple-converted-space"> </span></span></p>
+<h1 style="margin: 0.0px 0.0px 14.9px 0.0px; line-height: 22.0px; font: 18.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
+<p class="p1"><span class="s1">{{ content }} {% if page.share != false %}</span></p>
+<p class="p3"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include _social-share.html %} {% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% if site.owner.disqus-shortname and page.comments == true %}</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include _footer.html %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include _scripts.html %}<span class="Apple-converted-space"> </span></span></p>
 </body>
 </html>
