@@ -71,7 +71,7 @@ I am captivated by the diverse spectrum of life and want to find general princip
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Graduate and Undergraduate Researchers</span> 
 <div>   
 <p style="float: left;padding-right:25px"><img src="/images/person.jpg" width="100"></p>
-<b>Your name here!</b> Opportunities abound. Please email me if you are interested.<BR> <BR> <BR> <BR> 
+<b>Your name here!</b> Opportunities abound. We have a PhD position funded. Please email me if you are interested.<BR> <BR> <BR> <BR> 
 </div>   
 
 
