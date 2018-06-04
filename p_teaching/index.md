@@ -11,15 +11,19 @@ image:
 
 
 ### Courses
-	Teaching Linear Algebra (2018)
+	[Differential equations](ww.umu.se/sok/sok-kursplan/kursplan?code=20145) (2018)
+
+	[Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
 
 	Lecturer in Genetics and Evolution at Massey University (2009-2012)
 
 	Teaching assistant for Mathematical Models in Biology (2003-2006)
-		
+	
+	
 <figure>
 <a href="/images/GlassBook.jpg"><img src="/images/GlassBook.jpg" width="100"></a>
-<figcaption> Textbook for Mathematical Methods in Biology </figcaption>
+<a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="100"></a>
+<figcaption> Mathematical Methods in Biology </figcaption>
 </figure>
 
 
