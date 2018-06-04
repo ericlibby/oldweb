@@ -10,7 +10,7 @@ image:
 ---
 
 
-### Courses
+## Courses
 	<a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
 
 	[Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
@@ -23,12 +23,12 @@ image:
 <figure>
 <a href="/images/GlassBook.jpg"><img src="/images/GlassBook.jpg" width="100"></a>
 <a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="133"></a>
-<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="133"></a>
+<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="130"></a>
 <figcaption> Texts from courses </figcaption>
 </figure>
 
 
-### Schools
+## Schools
 	SFI Complex Systems Winter School (Mohali, India) 2015
 	Microbial ecology lecture series
 
