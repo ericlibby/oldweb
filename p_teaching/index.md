@@ -12,13 +12,13 @@ image:
 
 ## Courses
 
-*Course coordinator of <a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
+* Course coordinator of <a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
 
-*Course coordinator of [Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
+* Course coordinator of [Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
 
-*Lecturer in Genetics and Evolution at Massey University (2009-2012)
+* Lecturer in Genetics and Evolution at Massey University (2009-2012)
 
-*Teaching assistant for Mathematical Models in Biology (2003-2006)
+* Teaching assistant for Mathematical Models in Biology (2003-2006)
 
 	
 	
@@ -31,11 +31,11 @@ image:
 
 
 ## Schools
-*SFI Complex Systems Winter School (Mohali, India) 2015: Microbial ecology lecture series
+* SFI Complex Systems Winter School (Mohali, India) 2015: Microbial ecology lecture series
 
-*SFI Complex Systems Summer School (Santa Fe, USA) 2014: Lecture on the evolution of biological complexity
+* SFI Complex Systems Summer School (Santa Fe, USA) 2014: Lecture on the evolution of biological complexity
 
-*CIMAT Mathematical Modeling of Biological Systems (Guanajuato, Mexico) 2012: Mathematics in evolution lecture series
+* CIMAT Mathematical Modeling of Biological Systems (Guanajuato, Mexico) 2012: Mathematics in evolution lecture series
 
 
 
