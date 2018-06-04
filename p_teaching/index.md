@@ -24,12 +24,6 @@ image:
 <figcaption> Texts from courses </figcaption>
 </figure>
 
-.square{
-    width: 100px;
-    height: 100px;
-    Background-color: #fff;/* Your Color */
-}
-
 
 ## Schools
 	SFI Complex Systems Winter School (Mohali, India) 2015
