@@ -22,8 +22,8 @@ image:
 	
 <figure>
 <a href="/images/GlassBook.jpg"><img src="/images/GlassBook.jpg" width="100"></a>
-<a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="140"></a>
-<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="150"></a>
+<a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="133"></a>
+<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="133"></a>
 <figcaption> Texts from courses </figcaption>
 </figure>
 
