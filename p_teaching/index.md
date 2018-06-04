@@ -11,7 +11,7 @@ image:
 
 
 ### Courses
-	[Differential equations](ww.umu.se/sok/sok-kursplan/kursplan?code=20145) (2018)
+	[Differential equations](http://www.umu.se/sok/sok-kursplan/kursplan?code=20145) (2018)
 
 	[Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
 
@@ -22,8 +22,9 @@ image:
 	
 <figure>
 <a href="/images/GlassBook.jpg"><img src="/images/GlassBook.jpg" width="100"></a>
-<a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="100"></a>
-<figcaption> Mathematical Methods in Biology </figcaption>
+<a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="130"></a>
+<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="100"></a>
+<figcaption> Texts from courses </figcaption>
 </figure>
 
 
