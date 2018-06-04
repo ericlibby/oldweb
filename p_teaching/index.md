@@ -11,13 +11,10 @@ image:
 
 
 ## Courses
-	<a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
-
-	[Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
-
-	Lecturer in Genetics and Evolution at Massey University (2009-2012)
-
-	Teaching assistant for Mathematical Models in Biology (2003-2006)
+* <a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
+* [Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
+* Lecturer in Genetics and Evolution at Massey University (2009-2012)
+* Teaching assistant for Mathematical Models in Biology (2003-2006)
 	
 	
 <figure>
