@@ -17,8 +17,8 @@ Email: elibbyscience at gmail.com
 
 
 
-### Past Positions
-**2017--present**: Associate professor, Ume&aring; University
+### Positions
+**2017--now**: Associate professor, Ume&aring; University
 **2013--2017**: Omidyar Fellow, Santa Fe Institute
 **2009--2013**: Post-Doctoral Fellow, New Zealand Institute for Advanced Study  	
 	Advisor: [Paul Rainey](http://evolution.massey.ac.nz)    
