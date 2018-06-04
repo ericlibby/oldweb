@@ -11,7 +11,7 @@ image:
 
 
 ### Courses
-	[Differential equations](http://www.umu.se/sok/sok-kursplan/kursplan?code=20145) (2018)
+	<a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
 
 	[Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
 
