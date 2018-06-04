@@ -11,8 +11,8 @@ image:
 
 
 ## Courses
-* <a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
-* [Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
+* Course coordinator of <a href="http://www.umu.se/sok/sok-kursplan/kursplan?code=20145"> Differential equations </a> (2018)
+* Course coordinator of [Linear Algebra](http://www.umu.se/sok/sok-kursplan/kursplan?code=17904) (2018)
 * Lecturer in Genetics and Evolution at Massey University (2009-2012)
 * Teaching assistant for Mathematical Models in Biology (2003-2006)
 	
@@ -20,7 +20,7 @@ image:
 <figure>
 <a href="/images/GlassBook.jpg"><img src="/images/GlassBook.jpg" width="100"></a>
 <a href="/images/book_lin_alg.jpg"><img src="/images/book_lin_alg.jpg" width="133"></a>
-<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="130"></a>
+<a href="/images/book_diffeq.jpg"><img src="/images/book_diffeq.jpg" width="128"></a>
 <figcaption> Texts from courses </figcaption>
 </figure>
 
