@@ -18,3 +18,8 @@ Complex life has evolved through a series of major transitions in which existing
 
   
   
+## Bet-hedging
+
+## Life cycles
+
+## Syntrophy

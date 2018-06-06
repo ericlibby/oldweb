@@ -1,15 +1,13 @@
 ---
 layout: outreachpage
-title: "Research"
+title: " "
 tags: [sample post, images, test]
 comments: true
 image:
   feature: turtle.jpg
   credit: elibby
 ---
-
-
-### Talks and Seminars
+## Talks and Seminars
 * University of Arizona's quantitative biology colloquium series (2016)
 "The Evolution of New Kinds of Individuals" 
 
@@ -107,13 +105,11 @@ image:
 * MITACS (The Mathematics of Information Technology and Complex Systems) and CAIMS (Canadian Applied and Industrial Mathematics Society) joint Meeting.  (2006)
 "Probing the Probeset"
 
-### Public Science Communication
+## Public Science Communication
 * National Science on Screen Day "<I> Young Frankenstein </I> and How I Got Here"  (2015)
 
-<figure>
-<a href="/images/YoungFrank.jpg"><img src="/images/YoungFrank.jpg" width="200"></a>
-<figcaption> Me as Young Frankenstein</figcaption>
-</figure>
+![frank](/images/YoungFrank.jpg){:width="200px" .center-image}
+<small> Me as Young Frankenstein </small>
 
 * Science Radio Cafe interview  (2015)
 
@@ -129,7 +125,7 @@ image:
  
 * Radio NZ: Our Changing World interview about research  (2011)
  
-### AAAS Mass Media Fellowship VOA
+## AAAS Mass Media Fellowship VOA
 
 * Radio and online science journalist VOA, author of 21 pieces  (2008)
 
