@@ -17,3 +17,7 @@ Complex life has evolved through a series of major transitions in which existing
 
 ![snow](/images/snow_model.jpg){:width="512px" .center-image}
 <small> Snowflake yeast and model (image from William Ratcliff, model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here])</a> </small>
+
+  
+  
+## Bet-hedging
