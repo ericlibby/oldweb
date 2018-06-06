@@ -14,7 +14,7 @@ Complex life has evolved through a series of major transitions in which existing
 
 <figure>
 <img src="/images/snow_model.jpg" alt="Snowflake yeast model" width="512">
-<figcaption>image from William Ratcliff and our mathematical model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here]</a></figcaption>
+<figcaption>snowflake yeast and model (image from William Ratcliff, model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here])</a></figcaption>
 </figure>
 
 
