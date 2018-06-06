@@ -11,9 +11,6 @@ image:
 Complex life has evolved through a series of major transitions in which existing individuals combine to become parts of a new kind of individual. One key transition was the evolution of multicellularity which made possible significant increases in organismal complexity. While multicellularity has evolved on dozens of independent occasions, these events occurred millions of years ago and are absent from the fossil record. Recent experiments, however, have made it possible to study this transition in the lab by using microorganisms to evolve primitive multicellularity <I> de novo </I>. Such experimental systems provide excellent opportunities to test hypotheses about the conditions that govern major transitions and facilitate the evolution of additional forms of complexity. A major arc of my research is directed at understanding how multicellularity evolves and what happens following its initial appearance. 
 
 
-<figure>
-  <img src="/images/snow_model.jpg" alt="Snowflake yeast model" width="512">
-  <figcaption>image from William Ratcliff and our mathematical model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here]</a>.</figcaption>
-</figure>
+<figure><img src="/images/snow_model.jpg" alt="Snowflake yeast model" width="512"><figcaption>image from William Ratcliff and our mathematical model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here]</a>.</figcaption></figure>
 
 
