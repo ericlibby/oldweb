@@ -45,7 +45,7 @@ I am captivated by the diverse spectrum of life and want to find general princip
 
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/taylorwehrs.jpg" width="100"></p> <b>Taylor Wehrs</b> Taylor came to SFI from the Doane University during the summer of 2016 to work with me on the evolution of morphology using Avida. The research is ongoing and will hopefully be published some time soon. <BR> <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/taylorwehrs.jpg" width="100"></p> <b>Taylor Wehrs</b> Taylor came to SFI from Doane University during the summer of 2016 to work with me on the evolution of morphology using Avida. The research is ongoing and will hopefully be published some time soon. <BR> <BR> <BR> <BR> <BR>
 </div>     
 
 
