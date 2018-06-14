@@ -26,6 +26,7 @@ While multicellularity has evolved on dozens of independent occasions, these eve
 Here are some of the topics that we are currently exploring:
 * The origins of multicellularity
 * Endosymbiosis and the origins of the mitochondria
+* Syntrophy and microbial trade
 * Bet-hedging
 * Life cycles 
 * Evolutionary transitions in individuality
