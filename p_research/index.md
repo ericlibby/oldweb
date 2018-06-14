@@ -17,9 +17,9 @@ Complex life has evolved through a series of major transitions in which existing
 <small> Snowflake yeast and model (image from William Ratcliff, model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here])</a> </small>
 
   
-  
-## Bet-hedging
+## Bet-hedging and Developmental programs
 
-## Life cycles
+Many bacteria have evolved the capacity to switch between at least two phenotypic states. For instance, when grown in a lab <I>P. fluorescens</I> produces two phenotypes: "smooth" and "wrinkly". They differ by a mutation that causes wrinkly types to secrete an extracellular glue and stick together in a mat. In culture, smooth types give rise to wrinkly types who in turn will eventually produce smooth types. The dominant phenotype cycles because each phenotype modifies the environment to favor the other type. This coupling of environmental change to phenotypic change creates stable oscillations in phenotypes that select for a life-cycle between smooth (unicellular) and wrinkly (multicellular) states. We investigate how these simple, initially random switching events, can be beneficial as bet-hedging strategies and how they can evolve into more regulated forms of phenotypic expression as might be found in developmental programs.
+
 
 ## Syntrophy

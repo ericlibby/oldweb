@@ -8,26 +8,7 @@ image:
   feature: urchins.jpg
   credit: elibby
 ---
-## What we do
-We focus on microbial systems in order to understand how biological complexity evolves. Microbes are ideal because they exhibit tremendous diversity in terms of life strategies-- so much so that they often obfuscate concepts, like species or organism, that are clearer in higher level systems. In general, most biological complexity has its origins, if not its perfection, in these systems. 
-
-An added bonus of microbes is that some are very amenable to experimental study (others, however are complete mysteries). Modern lab techniques enable us to learn how mutations in the genomes of these organisms translate into different-- possibly novel-- phenotypes. We collaborate with talented experimentalists to marry theory with empirical results to uncover general principles of how life evolves to be complex.
-
-We use a wide variety of mathematical and computational techniques to address our research questions. The techniques include but are not limited to: 
-
-* Differential equations
-* Nonlinear dynamics   
-* Stochastic processes   
-* Network/graph theory  
-* Optimization
-* Game theory
-* Evolutionary simulations
-* Bayesian inference
-
-
-
-
-## Who we are
+## Team members
 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Principle Investigator</span>   
 <div>

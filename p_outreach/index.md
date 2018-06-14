@@ -8,6 +8,15 @@ image:
   credit: elibby
 ---
 ## Talks and Seminars
+* IAL8 International Association for Lichenology (2016)
+"Is a lichen an evolutionary individual?"
+
+* Evolution conference (2016)
+"Predicting Life’s Tape"
+
+* SciWrite (2016)
+"Evolution of Multicellularity"
+
 * University of Arizona's quantitative biology colloquium series (2016)
 "The Evolution of New Kinds of Individuals" 
 
@@ -87,6 +96,12 @@ image:
 "Probe by Probe: Detecting Differential Expression on Affymetrix Microarrays"
 
 ### Posters
+* Gordon Conference on Microbial Population Biology (2017)
+"Paradoxes in Leaky Microbial Trade"
+
+* Gordon Conference on Molecular Mechanisms in Evolution (2017)
+"Paradoxes in Leaky Microbial Trade"
+
 * Gordon Conference on Microbial Population Biology  (2015)
 "A tradeoff between competition and survival drives extinction in fluctuating environments"
 
@@ -106,8 +121,7 @@ image:
 "Probing the Probeset"
 
 ## Public Science Communication
-* National Science on Screen Day "<I> Young Frankenstein </I> and How I Got Here"  (2015)
-
+* National Science on Screen Day "<I> Young Frankenstein </I> and How I Got Here"  (2015)  
 ![frank](/images/YoungFrank.jpg){:width="200px" .center-image}
 <small> Me as Young Frankenstein </small>
 

@@ -10,6 +10,8 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, syntrophy, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 6/3/18: Our new preprint "Disentangling the effects of genetic architecture, mutational bias and selection on evolutionary forecasting" is on [bioRxiv](https://www.biorxiv.org/content/early/2018/06/03/335711.article-info).
+
 - 5/24/18: Have a fully-funded PhD position available! Please contact me if you are interested. The official call for applications will come out later.
 
 - 4/18/18: Participated in the very stimulating workshop [New Opportunities to Study Origins of the Eukaryotic Cell](https://www.janelia.org/you-janelia/conferences/new-opportunities-to-study-origins-of-the-eukaryotic-cell) hosted at HHMI Janelia Research Campus.
