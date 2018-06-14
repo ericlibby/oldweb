@@ -40,8 +40,9 @@ I am captivated by the diverse spectrum of life and want to find general princip
 </div>    
 
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/justin.jpg" width="100"></p> <b>Justin Carmichael</b> Justin came to SFI from the University of New Mexico during the summer of 2015 to work with Andrew Berdahl and me on the evolution of collective movement. <BR> <BR> <BR> <BR> <BR>
+<p style="float: left;padding-right:25px"><img src="/images/justin.jpg" width="100"></p> <b>Justin Carmichael</b> Justin came to SFI from the University of New Mexico during the summer of 2015 to work with Andrew Berdahl and me on the evolution of collective movement. <BR> <BR> <BR> <BR> <BR> <BR> <BR>  <BR> 
 </div>     
+
 
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/taylorwehrs.jpg" width="100"></p> <b>Taylor Wehrs</b> Taylor came to SFI from the Doane University during the summer of 2016 to work with me on the evolution of morphology using Avida. The research is ongoing and will hopefully be published some time soon. <BR> <BR> <BR> <BR> <BR>
