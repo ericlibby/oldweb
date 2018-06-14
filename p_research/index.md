@@ -7,12 +7,13 @@ image:
   feature: mushroom_forage.jpg
   credit: elibby
 ---
+## Research questions
 My research addresses a single fundamental question: how do simple organisms evolve into complex ones? In particular, I am interested in the evolutionary origins of multicellularity. Somehow single-celled organisms, who were successful in their own right, evolved to form new kinds of individuals composed of many cells, multicellular organisms. The evolution of multicellularity is considered a major transition for the evolution of life on earth that made possible significant increases in organismal complexity.
 
 <br>
 <br>	
 
-![snow](/images/snow_model.jpg){:width="512px" .center-image}
+![snow](/images/snow_model.jpg){:width="512px"}
 <small> Snowflake yeast and model (image from William Ratcliff, model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here])</a> </small>
 
 <br>
