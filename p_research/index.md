@@ -14,7 +14,7 @@ My research addresses a single fundamental question: how do simple organisms evo
 <br>	
 
 ![snow](/images/snow_model.jpg){:width="512px"}
-
+<br>
 <small> Snowflake yeast and model (image from William Ratcliff, model published <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803">[here])</a> </small>
 
 <br>
