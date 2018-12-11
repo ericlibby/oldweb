@@ -33,7 +33,14 @@ Email: elibbyscience at gmail.com
 
 ### Publications
 2018
-:	* <span style="color:#377EB8;"> E Libby</span>, WW Driscoll, WC Ratcliff. Programmed cell death can increase the efficacy of microbial bet-hedging. <I> Scientific reports </I> 8(1): 1120. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
+:	* <span style="color:#377EB8;"> E Libby</span>, WC Ratcliff. Short-sighted evolution constrains the efficacy of long-term bet-hedging. <I> American Naturalist </I> (accepted)
+
+	* P Lind, <span style="color:#377EB8;"> E Libby</span>, J Herzog, PB Rainey. Predicting mutational routes to new adaptive phenotypes. <I> eLife </I> (accepted)
+
+
+	* S Estrela, <span style="color:#377EB8;"> E Libby</span>, J Van Cleve, F Débarre, M Deforet, WR Harcombe, J Peña, SP Brown, ME Hochberg. Environmentally Mediated Social Dilemmas. <I> Trends Ecol Evol. </I> 2018 Nov 8. pii: S0169-5347(18)30249-0. 
+
+	* <span style="color:#377EB8;"> E Libby</span>, WW Driscoll, WC Ratcliff. Programmed cell death can increase the efficacy of microbial bet-hedging. <I> Scientific reports </I> 8(1): 1120. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
 
 2017
 :	* WC Ratcliff, M Herron, PL Conlin, <span style="color:#377EB8;"> E Libby</span>. Nascent life cycles and the emergence of higher-level individuality. <I> Phil. Trans. R. Soc. B </I> 372(1735): 20160420. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
