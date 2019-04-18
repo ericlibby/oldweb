@@ -10,7 +10,16 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, syntrophy, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
-- 12/10/18: I am looking for a PhD student to work with me on the evolutionary origins of multicellularity. Contact me if you have any questions. Apply [here](https://umu.mynetworkglobal.com/en/what:job/jobID:240085/) 
+
+- 5/09/19: I will be speaking at the Workshop on Modelling in Biology and Medicine (MBM) in Gothenburg. It will be a fun meeting!
+
+- 4/16/19: I am looking for a PhD student to work with me on the evolutionary origins of eukaryotes. Contact me if you have any questions. Read more and apply [here](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-mathematical-modeling_263754/) 
+
+- 3/01/19: Our publication "Shortsighted Evolution Constrains the Efficacy of Long-Term Bet Hedging" is out at American Naturalist. See [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701786). Thanks to the excellent (and thorough) review process at American Naturalist.
+
+- 2/21/19: Finished my course on Linear Algebra. Thanks to the students for their hard work and persistence.
+
+- 1/08/19: Our paper "Predicting mutational routes to new adaptive phenotypes" is out at eLife. Read it [here](https://elifesciences.org/articles/38822) and some news coverage of the lead author and my colleague at Umeå University, [Peter Lind](http://www.mynewsdesk.com/se/umea_universitet/pressreleases/gaar-det-att-foerutsaega-evolutionen-2821537).
 
 - 11/08/18: Our publication "Environmentally Mediated Social Dilemmas" is out at Trends in Ecology and Evolution. See [here](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(18)30249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534718302490%3Fshowall%3Dtrue). Thanks to all my co-authors!
 
