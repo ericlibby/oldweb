@@ -21,6 +21,16 @@ I am captivated by the diverse spectrum of life and want to find general princip
 
 --- 
 
+<span style="text-align=left;font-size:1.5em;color:#377EB8;">Current PhDs</span>      
+
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/hanna.jpg" width="100"></p> <b>Hanna Isaksson</b> Hanna will join us at Icelab and the Umeå University Mathematics Department in Fall 2019. Her PhD studies will focus on understanding the evolution of multicellular life cycles. She enjoys playing the organ and bird-watching among other things.  <BR> <BR> <BR> <BR> <BR>
+</div>      
+
+<BR CLEAR="...">
+
+--- 
+
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Former PhDs</span>      
 
 <div>
