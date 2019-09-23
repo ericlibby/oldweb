@@ -32,13 +32,20 @@ Email: elibbyscience at gmail.com
 <br>
 
 ### Publications
+2019
+:	* A Berdahl, C Brelsford, C De Bacco, M Dumas, V Ferdinand, JA Grochow, L Hébert-Dufresne, Y Kallus, CP Kempes, A Kolchinsky, DB Larremore, <span style="color:#377EB8;"> E Libby</span>, EA Power, CA Stern, BD Tracey. Dynamics of beneficial epidemics. <I> Scientific Reports </I> (accepted).
+
+	* <span style="color:#377EB8;"> E Libby</span>, L Hébert-Dufresne, SR Hosseini, A Wagner. Syntrophy emerges spontaneously in complex metabolic systems. <I> PLoS computational biology </I> 15 (7), e1007169. [**link**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007169)
+
+	* <span style="color:#377EB8;"> E Libby</span>. Modularity of the life cycle. <I> Nature Ecology and Evolution </I> 3, 1142-1143. [**link**](https://www.nature.com/articles/s41559-019-0956-5)
+
+	* <span style="color:#377EB8;"> E Libby</span>, WC Ratcliff. Short-sighted evolution constrains the efficacy of long-term bet-hedging. <I> American Naturalist </I> 193(3): 409-423. [**link**](https://www.journals.uchicago.edu/doi/10.1086/701786)
+
+	* P Lind, <span style="color:#377EB8;"> E Libby</span>, J Herzog, PB Rainey. Predicting mutational routes to new adaptive phenotypes. <I> eLife </I> 2019;8:e38822
+[**link**](https://elifesciences.org/articles/38822)
+
 2018
-:	* <span style="color:#377EB8;"> E Libby</span>, WC Ratcliff. Short-sighted evolution constrains the efficacy of long-term bet-hedging. <I> American Naturalist </I> (accepted)
-
-	* P Lind, <span style="color:#377EB8;"> E Libby</span>, J Herzog, PB Rainey. Predicting mutational routes to new adaptive phenotypes. <I> eLife </I> (accepted)
-
-
-	* S Estrela, <span style="color:#377EB8;"> E Libby</span>, J Van Cleve, F Débarre, M Deforet, WR Harcombe, J Peña, SP Brown, ME Hochberg. Environmentally Mediated Social Dilemmas. <I> Trends Ecol Evol. </I> 2018 Nov 8. pii: S0169-5347(18)30249-0. 
+:	* S Estrela, <span style="color:#377EB8;"> E Libby</span>, J Van Cleve, F Débarre, M Deforet, WR Harcombe, J Peña, SP Brown, ME Hochberg. Environmentally Mediated Social Dilemmas. <I> Trends Ecol Evol. </I> 2018 Nov 8. pii: S0169-5347(18)30249-0. 
 
 	* <span style="color:#377EB8;"> E Libby</span>, WW Driscoll, WC Ratcliff. Programmed cell death can increase the efficacy of microbial bet-hedging. <I> Scientific reports </I> 8(1): 1120. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
 

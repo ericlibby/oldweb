@@ -10,10 +10,9 @@ image:
 My research focuses on the evolution of biological complexity-- particularly the origins of multicellularity, life cycles, syntrophy, and organizational scales. Essentially, I am interested in how simple organisms evolve into complex ones. This topic is not only fascinating but it is fundamental to understanding the evolution and ecology of life-- both on earth and elsewhere in the "verse". 
 
 ### --- NEWS ---
+- 9/2/19: It has been a busy summer: two conferences (AbSciCon and the GRC Microbial Population Biology), two new publications (the emergence of [syntrophy](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007169) and a [news and views](https://www.nature.com/articles/s41559-019-0956-5) piece), and most importantly a new PhD student Hanna Isaksson! Hanna's PhD will focus on the evolution of multicellular life cycles. We are very excited to have her join us at Icelab!
 
 - 5/09/19: I will be speaking at the Workshop on Modelling in Biology and Medicine (MBM) in Gothenburg. It will be a fun meeting!
-
-- 4/16/19: I am looking for a PhD student to work with me on the evolutionary origins of eukaryotes. Contact me if you have any questions. Read more and apply [here](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-mathematical-modeling_263754/) 
 
 - 3/01/19: Our publication "Shortsighted Evolution Constrains the Efficacy of Long-Term Bet Hedging" is out at American Naturalist. See [here](https://www.journals.uchicago.edu/doi/abs/10.1086/701786). Thanks to the excellent (and thorough) review process at American Naturalist.
 

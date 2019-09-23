@@ -8,13 +8,25 @@ image:
   credit: elibby
 ---
 ## Talks and Seminars
-* IAL8 International Association for Lichenology (2016)
+* Workshop on Modelling in Biology and Medicine at Chalmers University in G&ouml;teberg, Sweden (2019)
+"The interaction between early multicellular forms and life cycles"
+
+* KBC Days at Ume&aring; University (2018)
+"Modeling the Evolutionary Origins of Multicellularity"
+
+* Mackey-Glass symposium at McGill University in Montreal, Canada (2018)
+"Paradoxes in self-improvement"
+
+* Evolution conference in Montpelier, France(2018)
+"Life cycle structure shapes the path to an evolutionary transition in individuality"
+
+* IAL8 International Association for Lichenology in Helsinki, Finland (2016)
 "Is a lichen an evolutionary individual?"
 
-* Evolution conference (2016)
+* Evolution conference in Austin, TX, USA (2016)
 "Predicting Life’s Tape"
 
-* SciWrite (2016)
+* SciWrite at the Sante Fe Institute, USA (2016)
 "Evolution of Multicellularity"
 
 * University of Arizona's quantitative biology colloquium series (2016)
@@ -96,6 +108,9 @@ image:
 "Probe by Probe: Detecting Differential Expression on Affymetrix Microarrays"
 
 ### Posters
+* Gordon Conference on Microbial Population Biology (2019)
+"Lichens illuminate a novel route to multicellularity"
+
 * Gordon Conference on Microbial Population Biology (2017)
 "Paradoxes in Leaky Microbial Trade"
 
@@ -139,9 +154,7 @@ image:
  
 * Radio NZ: Our Changing World interview about research  (2011)
  
-## AAAS Mass Media Fellowship VOA
-
-* Radio and online science journalist VOA, author of 21 pieces  (2008)
+* AAAS Mass Media Fellowship as a radio and online science journalist at VOA, author of 21  pieces  (2008)
 
 
 
