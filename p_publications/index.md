@@ -47,16 +47,16 @@ Email: elibbyscience at gmail.com
 [**link**](https://elifesciences.org/articles/38822)
 
 2018
-:	* S Estrela, <span style="color:#377EB8;"> E Libby</span>, J Van Cleve, F Débarre, M Deforet, WR Harcombe, J Peña, SP Brown, ME Hochberg (2018) Environmentally Mediated Social Dilemmas. <I> Trends Ecol Evol. </I> 2018 Nov 8. pii: S0169-5347(18)30249-0. 
+:	* S Estrela, <span style="color:#377EB8;"> E Libby</span>, J Van Cleve, F Débarre, M Deforet, WR Harcombe, J Peña, SP Brown, ME Hochberg (2018) Environmentally Mediated Social Dilemmas. <I> Trends Ecol Evol. </I> 2018 Nov 8. pii: S0169-5347(18)30249-0. [**link**](https://www.sciencedirect.com/science/article/abs/pii/S0169534718302490)
 
 	* <span style="color:#377EB8;"> E Libby</span>, WW Driscoll, WC Ratcliff (2018) Programmed cell death can increase the efficacy of microbial bet-hedging. <I> Scientific reports </I> 8(1): 1120. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
 
 2017
 :	* WC Ratcliff, M Herron, PL Conlin, <span style="color:#377EB8;"> E Libby</span> (2017) Nascent life cycles and the emergence of higher-level individuality. <I> Phil. Trans. R. Soc. B </I> 372(1735): 20160420. [**link**](https://www.nature.com/articles/s41598-017-18687-y)
 
-	* Y Kallus, JH Miller, <span style="color:#377EB8;"> E Libby</span> (2017) Paradoxes in leaky microbial trade. <I> Nature Communications </I> 8(1): 1361.
+	* Y Kallus, JH Miller, <span style="color:#377EB8;"> E Libby</span> (2017) Paradoxes in leaky microbial trade. <I> Nature Communications </I> 8(1): 1361. [**link**](https://www.nature.com/articles/s41467-017-01628-8)
 
-	* L Hébert-Dufresne, A Allard, PA Noël, JG Young, <span style="color:#377EB8;"> E Libby</span> (2017) Strategic tradeoffs in competitor dynamics on adaptive networks. <I> Scientific reports </I>. 7 (1), 7576.
+	* L Hébert-Dufresne, A Allard, PA Noël, JG Young, <span style="color:#377EB8;"> E Libby</span> (2017) Strategic tradeoffs in competitor dynamics on adaptive networks. <I> Scientific reports </I>. 7 (1), 7576. [**link**](https://www.nature.com/articles/s41598-017-07621-x)
 
 	* L Tavera-Mendoza,T Westerling, <span style="color:#377EB8;"> E Libby</span>, A Marusyk,L Cato L., Cassani R., Cameron L., Ficarro S., Marto J., Klawitter J., Brown M (2017) Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells. <I> PNAS </I> 114(11):E2186-E2194. [**link**](http://www.pnas.org/content/early/2017/02/24/1615015114)
 
@@ -76,28 +76,28 @@ Email: elibbyscience at gmail.com
 
 	* DH Wolpert, JA Grochow, <span style="color:#377EB8;"> E Libby</span>, S DeDeo (2015) A framework for optimal high-level descriptions in science and engineering---preliminary report. (http://arxiv.org/abs/1409.7403)  
 
-	* J Gallie, <span style="color:#377EB8;"> E Libby</span>, CB Jendresen, F Bertels, GC Ferguson, HJE Beaumont, M Kilstrup, PB Rainey (2015) Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens. <I> PLoS Biol </I> 13(3): e1002109. 
+	* J Gallie, <span style="color:#377EB8;"> E Libby</span>, CB Jendresen, F Bertels, GC Ferguson, HJE Beaumont, M Kilstrup, PB Rainey (2015) Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens. <I> PLoS Biol </I> 13(3): e1002109. [**link**](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002109)
 
 
 2014
-:	*  <span style="color:#377EB8;"> E Libby</span>,  WC Ratcliff (2014) Ratcheting the evolution of multicellularity. <I> Science</I>, 346(6208):426-7.
+:	*  <span style="color:#377EB8;"> E Libby</span>,  WC Ratcliff (2014) Ratcheting the evolution of multicellularity. <I> Science</I>, 346(6208):426-7. [**link**](https://science.sciencemag.org/content/346/6208/426)
 
-	* WC Ratcliff, P Hawthorne,  <span style="color:#377EB8;"> E Libby</span> (2014) Courting disaster: how diversification rate affects fitness under risk. <I> Evolution</I>, 69(1):126-35. 
+	* WC Ratcliff, P Hawthorne,  <span style="color:#377EB8;"> E Libby</span> (2014) Courting disaster: how diversification rate affects fitness under risk. <I> Evolution</I>, 69(1):126-35. [**link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4312886/)
 
 	* <span style="color:#377EB8;"> E Libby</span>, B Kerr, WC Ratcliff,  M Travisano (2014) Geometry shapes evolution of early multicellularity. <I> PLoS Comp Biol</I>,10(9):e1003803. 
 
 	* <span style="color:#377EB8;"> E Libby</span>  (2014) "Self-Organization and Emergence" chapter in <I> Discoveries in Modern Science: Exploration, Invention, Technology</I>. editors: James Trefil, Patricia Daniels, Donna McPhie,  Craig Schiffries.
 
-	* GE Machovsky-Capuska, M Hauber, <span style="color:#377EB8;"> E Libby</span>, C Amiot, D Raubenheimer (2014) The contribution of private and public information in foraging by Australasian gannets. <I> Animal Cognition</I>, 17(4), 849-858.
+	* GE Machovsky-Capuska, M Hauber, <span style="color:#377EB8;"> E Libby</span>, C Amiot, D Raubenheimer (2014) The contribution of private and public information in foraging by Australasian gannets. <I> Animal Cognition</I>, 17(4), 849-858. [**link**](https://link.springer.com/article/10.1007/s10071-013-0716-x)
 	
 2013
-:	* <span style="color:#377EB8;"> E Libby</span>,  PB Rainey (2013) Eco-evolutionary feedback and the tuning of proto-developmental life cycles. <I> PLoS One</I>, 8(12): e82274.
+:	* <span style="color:#377EB8;"> E Libby</span>,  PB Rainey (2013) Eco-evolutionary feedback and the tuning of proto-developmental life cycles. <I> PLoS One</I>, 8(12): e82274. [**link**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082274)
 
-	* <span style="color:#377EB8;"> E Libby</span>,  PB Rainey (2013) A conceptual framework for the evolutionary origins of multicellularity. <I> Physical Biology</I>, 10: 035001.
+	* <span style="color:#377EB8;"> E Libby</span>,  PB Rainey (2013) A conceptual framework for the evolutionary origins of multicellularity. <I> Physical Biology</I>, 10: 035001. [**link**](https://iopscience.iop.org/article/10.1088/1478-3975/10/3/035001)
 
 	* <span style="color:#377EB8;"> E Libby </span> (2013) "A Microcosm of Evolution" chapter in <I> Notas de Modelacion y Metodos Numericos. Mathematical Modeling of Biological Systems: From Molecules to Populations</I>. editors: Miguel Angel Moreles Vazquez  Salvador Botello Rionda.
 
-	* GE Machovsky-Capuska, ME Hauber, M Dassis, <span style="color:#377EB8;"> E Libby </span>, MC Wikelski, R Schuckard, DS Melville, W Cook, M Houston, D Raubenheimer (2013) Foraging behaviour and habitat use of chick-rearing Australasian Gannets in New Zealand.  <I> Journal of Ornithology</I>. doi:10.1007/s10336-013-1018-4.
+	* GE Machovsky-Capuska, ME Hauber, M Dassis, <span style="color:#377EB8;"> E Libby </span>, MC Wikelski, R Schuckard, DS Melville, W Cook, M Houston, D Raubenheimer (2013) Foraging behaviour and habitat use of chick-rearing Australasian Gannets in New Zealand.  <I> Journal of Ornithology</I>. doi:10.1007/s10336-013-1018-4. [**link**](https://link.springer.com/article/10.1007/s10336-013-1018-4)
 
 2012 and earlier
 :	* <span style="color:#377EB8;"> Libby E.</span>,  Rainey P. B. (2011). Exclusion rules, bottlenecks and the evolution of stochastic phenotype switching. <I> Proceedings of the Royal Society B: Biological sciences</I>. doi:10.1098/rspb.2011.0146.
