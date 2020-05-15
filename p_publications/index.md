@@ -84,7 +84,7 @@ Email: elibbyscience at gmail.com
 
 	* WC Ratcliff, P Hawthorne,  <span style="color:#377EB8;"> E Libby</span> (2014) Courting disaster: how diversification rate affects fitness under risk. <I> Evolution</I>, 69(1):126-35. [**link**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4312886/)
 
-	* <span style="color:#377EB8;"> E Libby</span>, B Kerr, WC Ratcliff,  M Travisano (2014) Geometry shapes evolution of early multicellularity. <I> PLoS Comp Biol</I>,10(9):e1003803. 
+	* <span style="color:#377EB8;"> E Libby</span>, B Kerr, WC Ratcliff,  M Travisano (2014) Geometry shapes evolution of early multicellularity. <I> PLoS Comp Biol</I>,10(9):e1003803. [**link**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003803)
 
 	* <span style="color:#377EB8;"> E Libby</span>  (2014) "Self-Organization and Emergence" chapter in <I> Discoveries in Modern Science: Exploration, Invention, Technology</I>. editors: James Trefil, Patricia Daniels, Donna McPhie,  Craig Schiffries.
 
