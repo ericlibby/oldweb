@@ -37,6 +37,8 @@ Email: elibbyscience at gmail.com
 
 	* <span style="color:#377EB8;"> E Libby</span>, L Hébert-Dufresne, SR Hosseini, A Wagner (2019) Syntrophy emerges spontaneously in complex metabolic systems. <I> PLoS computational biology </I> 15 (7), e1007169. [**link**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007169)
 
+	* <span style="color:#377EB8;"> E Libby</span> & PA Lind (2019) Probabilistic Models for Predicting Mutational Routes to New Adaptive Phenotypes. Bio-protocol 9(20): e3407. DOI: 10.21769/BioProtoc.3407.[**link**](https://bio-protocol.org/e3407)
+
 	* <span style="color:#377EB8;"> E Libby</span> (2019) Modularity of the life cycle. <I> Nature Ecology and Evolution </I> 3, 1142-1143. [**link**](https://www.nature.com/articles/s41559-019-0956-5)
 
 	* <span style="color:#377EB8;"> E Libby</span>, WC Ratcliff (2019) Short-sighted evolution constrains the efficacy of long-term bet-hedging. <I> American Naturalist </I> 193(3): 409-423. [**link**](https://www.journals.uchicago.edu/doi/10.1086/701786)
