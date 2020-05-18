@@ -21,14 +21,6 @@ image:
 </div>    
 <BR CLEAR="...">
 <div>
-<p style="float: left;padding-right:25px"><img src="/images/hanna.jpg" width="120"></p> 
-<div style="width: 600px">
-### Hanna Isaksson (PhD student) 
-<p>Hanna started her PhD in Fall 2019. She is based at Icelab and the Ume&aring; University Mathematics Department. Her studies focus on understanding the evolution of multicellular life cycles and in particular how their early structure influences adaptation. She enjoys playing the organ and bird-watching among other things. </p>   
-</div>   
-</div>    
-<BR CLEAR="...">
-<div>
 <p style="float: left;padding-right:25px"><img src="/images/natalie.jpg" width="120" ></p> 
 <div style="width: 600px">
 ### Natalie Grefenstette (postdoctoral researcher) 
@@ -36,6 +28,23 @@ image:
 </div>  
 </div>     
 <BR CLEAR="...">
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/hanna.jpg" width="120"></p> 
+<div style="width: 600px">
+### Hanna Isaksson (PhD student) 
+<p>Hanna started her PhD in Fall 2019. She is based at Icelab and the Ume&aring; University Mathematics Department. Her studies focus on understanding the evolution of multicellular life cycles and in particular how their early structure influences adaptation. She enjoys playing the organ and bird-watching among other things. </p>   
+</div>   
+</div>   
+<BR CLEAR="...">
+<div>
+<p style="float: left;padding-right:25px"><img src="/images/rebecka.jpg" width="120"></p> 
+<div style="width: 600px">
+### Rebecka Andersson (PhD student) 
+<p> Rebecka joined Ume&aring; University's Mathematics Department for her PhD in April 2020, based at the interdisciplinary IceLab. Her project will tackle the origins of eukaryotic endosymbiosis using mathematical models that connect physiological cell constraints with ecological population structures. She likes to go swing dancing in her spare time. </p>   
+</div>   
+</div>     
+<BR CLEAR="...">
+
 
 --- 
 <span style="text-align=left;font-size:1.5em;color:#377EB8;">Former Members</span>      
