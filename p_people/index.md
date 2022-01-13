@@ -15,8 +15,8 @@ image:
 <div>
 <p style="float: left;padding-right:25px"><img src="/images/eric_res.jpg" width="120"></p>
 <div style="width: 600px">
-### Eric Libby (principle investigator)
-<p> Eric joined Ume&aring; University in the winter of 2017 and splits his time between the Mathematics Department and the interdisciplinary research environment IceLab. He is captivated by the diverse spectrum of life and seeks general principles and fundamental theory that explain its emergence and evolution. He also likes seafood. </p>    
+### Eric Libby (principal investigator)
+<p> Eric joined Ume&aring; University in the winter of 2017 and splits his time between the Mathematics Department and the interdisciplinary research environment [IceLab](https://icelab.se/). He is captivated by the diverse spectrum of life and seeks general principles and fundamental theory that explain its emergence and evolution. He also likes seafood. </p>    
 </div>       
 </div>    
 <BR CLEAR="...">
