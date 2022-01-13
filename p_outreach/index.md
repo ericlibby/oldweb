@@ -136,6 +136,10 @@ image:
 "Probing the Probeset"
 
 ## Public Science Communication
+* Standup comedy as part of Forskar Fredag at Umeå's Science Center, Curiosum (2021)  
+![standup](/images/forskarfredag.jpg){:width="200px" .center-image}
+<small> Forskar fredag standup </small>
+
 * National Science on Screen Day "<I> Young Frankenstein </I> and How I Got Here"  (2015)  
 ![frank](/images/YoungFrank.jpg){:width="200px" .center-image}
 <small> Me as Young Frankenstein </small>
